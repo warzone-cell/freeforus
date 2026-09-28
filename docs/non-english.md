@@ -254,7 +254,7 @@
 * [Kilamanbo](https://kilakila.cn/) - Audio Comic Drama
 * [Huya](https://www.huya.com/) - Live Streaming
 * [IPTV807](https://iptv807.com/) - Live TV
-* [IPTV Playlists](https://rentry.co/FMHYB64#iptv-playlists) - IPTV Playlists
+* [IPTV Playlists](https://rentry.co/FreeForUsB64#iptv-playlists) - IPTV Playlists
 * [數學老師張旭](https://space.bilibili.com/521685904) - Math Lessons
 * [free-project-course](https://github.com/resumejob/free-project-course) - Programming Courses
 * [Baidu SkyDrive Video Player](https://greasyfork.org/en/scripts/426952-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%B0%8A%E4%BA%AB-vip-%E8%A7%A3%E9%94%81%E8%A7%86%E9%A2%91%E5%80%8D%E6%95%B0-%E8%A7%A3%E9%94%81%E5%85%A8%E9%83%A8%E6%B8%85%E6%99%B0%E5%BA%A6) - Baidu VIP Video Player
@@ -828,7 +828,7 @@
 
 * [OverDay](https://overday.org/) - Courses / Books / [Mirrors](https://justpaste.it/OVERPOSTING) / [2](https://filecrypt.co/Container/B25EED8329.html) / [Telegram](https://t.me/Overposting1)
 * [Ipersphera](https://www.ipersphera.com/) - Movies / TV / Sub
-* [HD4ME](https://rentry.co/FMHYB64#hd4me) - Movies
+* [HD4ME](https://rentry.co/FreeForUsB64#hd4me) - Movies
 * [XDCC Mule](https://www.xdccmule.org/) - IRC Download Search
 
 ## ▷ Torrenting
@@ -886,7 +886,7 @@
 * [Akiba-Online](https://www.akiba-online.com/) - Video / Audio / Comics / NSFW / 1080p
 * [JPop Singles](https://www.jpopsingles.eu/) - Music / MP3 / FLAC
 * [Doujin Cafe (Discord)](https://discord.gg/doujincafe) - Music / MP3 / FLAC
-* [Doujin Music](https://rentry.co/FMHYB64#doujin-music) - Music / MP3
+* [Doujin Music](https://rentry.co/FreeForUsB64#doujin-music) - Music / MP3
 * [DoujinStyle](https://doujinstyle.com/) - Music / MP3 / FLAC
 * [J-pop Music Download](https://jpop.xyz/) - Music / MP3 / FLAC
 * [Perfect Dark](https://perfectdark.benri-tool.net/) - P2P App
@@ -898,7 +898,7 @@
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animation Archive
 * [Abema](https://abema.tv/) - Live TV
 * [⁠JapanTV](https://japantv.app/) - YouTube TV Style Browser
-* [iptv-jp](https://rentry.co/FMHYB64#iptv-playlists) - Japanese IPTV Resources
+* [iptv-jp](https://rentry.co/FreeForUsB64#iptv-playlists) - Japanese IPTV Resources
 * [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Movie Archive
 * [SimulRadio](https://simulradio.info/) - Radio
 * [Kagakueizo](https://www.kagakueizo.org/) - Science Documentaries
@@ -1226,7 +1226,7 @@
 
 * [xCinema.ro](https://www.xcinema.ro/) - Movies / TV / Sub / 720p
 * [FilmePeAlese](https://www.filmepealese.com/) - Movies / TV / Sub / 720p
-* [lib2life](https://rentry.co/FMHYB64#lib2life) - Historical Books
+* [lib2life](https://rentry.co/FreeForUsB64#lib2life) - Historical Books
 
 ## ▷ Streaming
 
@@ -1451,7 +1451,7 @@
 * [Gatonplayseries](https://gatonplayseries.com/) - Movies / TV / Latino / Anime
 * [Peliculas Google Drive](https://www.peliculasgd.net/) - Movies / Latino
 * [TodoDVDFull](https://www.tododvdfull.com/) - Movies / Latino
-* [Info Real](https://rentry.co/FMHYB64#info-real) - Argentine Films
+* [Info Real](https://rentry.co/FreeForUsB64#info-real) - Argentine Films
 * [RetroCanal](https://retrocanal.net/) - Classical Movies / TV
 * [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV / ED2K Links
 * [RebeldeMule](https://www.rebeldemule.org/) - Movies / Classics / TV / Documentaries / Reading / ED2K Links / [Telegram](https://telegram.me/rebeldemule)
@@ -1520,7 +1520,7 @@
 * [angulismotv](https://angulismotv.pages.dev) - Live Sports
 * [stream-xhd](https://streamxhd.com/) - Live Sports
 * [librefutboltv](https://futbol-libre.com.co/) - Live Football
-* [Listas-IPTV](https://rentry.co/FMHYB64#iptv-playlists) - Spanish IPTV Resources
+* [Listas-IPTV](https://rentry.co/FreeForUsB64#iptv-playlists) - Spanish IPTV Resources
 * [Cinecalidad](https://www.cinecalidad.am/) / [LaMovie](https://lamovie.org/) - Movies / TV / Animation / Latino / [Telegram](https://t.me/micinecalidad)
 * [detodopeliculas](https://detodopeliculas.nu/) - Movies / TV
 * [verpeliculasonline](https://verpeliculasonline.org/), [2](https://ver-peliculas-online.org/) - Movies / TV
@@ -1848,7 +1848,7 @@ unofficial Ho Chi Minh City University of Technology course index
 * [zoom.lk](https://zoom.lk/) or [Cineru.lk](https://cineru.lk/) - Sinhalese / Subtitles
 * [Najdi.si](https://www.najdi.si/) - Slovene / Search
 * [BSF](https://bsf.si/) - Slovene Film Database
-* [iptv-ch](https://rentry.co/FMHYB64#iptv-playlists) - Swiss / IPTV Resources
+* [iptv-ch](https://rentry.co/FreeForUsB64#iptv-playlists) - Swiss / IPTV Resources
 * [Segoideas](https://segoideas.com/) - Taiwanese / Streaming / TV
 * [wlext](https://wlext.is/) - Turkish / Filipino / Thai / Streaming / Movies
 * [Machine Learning ka Chilla](https://www.youtube.com/playlist?list=PL9XvIvvVL50HHzaLPtFBOuikAWa0JdhMW) - Urdu / Machine Learning Course

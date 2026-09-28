@@ -84,7 +84,7 @@ function generateRemovedSites() {
       'No .git directory found. Attempting to fetch temporary history for generation...'
     )
     try {
-      const REPO_URL = 'https://github.com/fmhy/edit.git'
+      const REPO_URL = 'https://github.com/FreeForUs/edit.git'
       const TEMP_GIT_DIR = '.git-temp'
 
       // Clean up any old temp dir
@@ -269,7 +269,7 @@ function generateRemovedSites() {
   markdown += `<!-- search-exclude -->\n`
   markdown += `This page lists sites that were removed from the wiki in the last ${DAYS} days. This helps you find sites that may have gone down or were moved.\n\n`
   markdown += `> [!TIP]\n`
-  markdown += `> For more information about why a site was removed, feel free to join our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord).\n`
+  markdown += `> For more information about why a site was removed, feel free to join our [Discord](https://github.com/FreeForUs/FreeForUs/wiki/FreeForUs-Discord).\n`
   markdown += `<!-- /search-exclude -->\n\n`
 
   if (sortedRemoved.length === 0) {
@@ -281,9 +281,9 @@ function generateRemovedSites() {
         .update(site.file)
         .digest('hex')
       const lineAnchor = site.lineNum ? `L${site.lineNum}` : ''
-      const commitLink = `https://github.com/fmhy/edit/commit/${site.hash}#diff-${fileHash}${lineAnchor}`
+      const commitLink = `https://github.com/FreeForUs/edit/commit/${site.hash}#diff-${fileHash}${lineAnchor}`
       const prLink = site.pr
-        ? `, [PR #${site.pr}](https://github.com/fmhy/edit/pull/${site.pr})`
+        ? `, [PR #${site.pr}](https://github.com/FreeForUs/edit/pull/${site.pr})`
         : ''
 
       // Separate the link part from the description

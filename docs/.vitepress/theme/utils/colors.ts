@@ -1,5 +1,5 @@
 /**
- *  Copyright (c) 2026 FMHY. Apache License 2.0.
+ *  Copyright (c) 2026 FreeForUs. Apache License 2.0.
  */
 
 export const colors = {

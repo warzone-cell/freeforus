@@ -29,12 +29,12 @@
 * ⭐ **[PrivateBin](https://privatebin.net/)**, **[Paste.to](https://paste.to/)**, [NoteBin](https://notebin.de/), [TxtBin](https://txtbin.org/) or [⁠ZeroBin](https://www.zerobin.net/) - Markdown Support / Syntax Highlighting / [Instances](https://privatebin.info/directory) / [GitHub](https://github.com/PrivateBin/PrivateBin)
 * ⭐ **[GitHub Gists](https://gist.github.com/)** or [GitLab Snippets](https://docs.gitlab.com/user/snippets/) - Multi-Syntax / Requires Sign-Up
 * ⭐ **[Rentry](https://rentry.co/)**, [2](https://rentry.org/) - Markdown Support / Custom URLs / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentryarchived)
-* ⭐ **[Fluffle](https://fluffle.cc/)** - Markdown Support / Custom URLs / [Styling](https://fluffle.cc/docs/markdown) / [Source Code](https://git.0x8e.net/t/fluffle) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/fluffle-note.md)
+* ⭐ **[Fluffle](https://fluffle.cc/)** - Markdown Support / Custom URLs / [Styling](https://fluffle.cc/docs/markdown) / [Source Code](https://git.0x8e.net/t/fluffle) / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/fluffle-note.md)
 * ⭐ **[Yasosu](https://yaso.su/)** - Multi-Syntax / Markdown Support / Custom URLs / [Telegram](https://t.me/yaso_updates)
 * ⭐ **[Katbin](https://katb.in/)** - Plain Text / [GitHub](https://github.com/sphericalkat/katbin)
 * [Text.is](https://text.is/) - Markdown Support
 * [Bpaste](https://bpa.st/), [2](https://bpa.st/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/supakeen/pinnwand)
-* [snowbin](https://pastes.fmhy.net/), [2](https://paste.fmhy.net/) - Markdown Support / [GitHub](https://github.com/fmhy/snowbin)
+* [snowbin](https://pastes.FreeForUs.net/), [2](https://paste.FreeForUs.net/) - Markdown Support / [GitHub](https://github.com/FreeForUs/snowbin)
 * [Pastebin.com](https://pastebin.com/) - Multi-Syntax / [Proxy](https://pastebinp.com/)
 * [⁠Ghostbin](https://ghostbin.linuxbox.ninja/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/borrougagnou/spectre-updated)
 * [cryptgeon](https://cryptgeon.org/) - Single View / Plain Text / [GitHub](https://github.com/cupcakearmy/cryptgeon)
@@ -111,7 +111,7 @@
 
 * ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** / Web / [GitHub](https://github.com/gchq/CyberChef)
 * ⭐ **[Base64 Decode](https://www.base64decode.org/)** or [base64.run](https://base64.run/) - Base64 Specific / Web
-* ⭐ **[Auto Decoder](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)** - Auto-Decode B64 Links on Pastebins
+* ⭐ **[Auto Decoder](https://greasyfork.org/en/scripts/485772-FreeForUs-base64-auto-decoder)** - Auto-Decode B64 Links on Pastebins
 * [Ciphey](https://github.com/Ciphey/Ciphey) - Automated Decryption Tool / Windows, macOS, Linux
 * [Online Tools](https://emn178.github.io/online-tools/index.html) / Web
 * [cryptii](https://cryptii.com/) or [DenCode](https://dencode.com/) / Web
@@ -133,7 +133,7 @@
 * ⭐ **[Harper](https://writewithharper.com/)** / Windows, macOS, Linux, Web / [Discord](https://discord.com/invite/JBqcAaKrzQ) / [GitHub](https://github.com/automattic/harper)
 * [LanguageTool](https://languagetool.org/) / Windows, macOS, Linux, Web, Docker / [GitHub](https://github.com/languagetool-org/languagetool)
 * [Writing Tools](https://github.com/theJayTea/WritingTools) / Windows, macOS, Linux
-* [QuillBot](https://quillbot.com/grammar-check) / Web / [Extension](https://quillbot.com/app) / [Features](https://rentry.co/FMHYB64#quill)
+* [QuillBot](https://quillbot.com/grammar-check) / Web / [Extension](https://quillbot.com/app) / [Features](https://rentry.co/FreeForUsB64#quill)
 * [DeepL Write](https://www.deepl.com/write) / Web
 * [⁠Kagi Proofread](https://translate.kagi.com/proofread) / Web
 

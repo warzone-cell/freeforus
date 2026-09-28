@@ -26,7 +26,7 @@ import { replaceNoteLink } from './utils/markdown'
 
 const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
 export default defineConfig({
-  title: 'FMHY',
+  title: 'FreeForUs',
   description: meta.description,
   titleTemplate: ':title • freemediaheckyeah',
   lang: 'en-US',
@@ -34,7 +34,7 @@ export default defineConfig({
   cleanUrls: true,
   appearance: true,
   base: baseUrl,
-  scrollOffset: { selector: '.fmhy-scroll-inset', padding: 0 },
+  scrollOffset: { selector: '.FreeForUs-scroll-inset', padding: 0 },
   srcExclude: ['README.md', 'public/single-page.md', 'single-page'],
   ignoreDeadLinks: true,
   sitemap: {
@@ -44,13 +44,13 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: '#7bc5e4' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],
-    ['link', { rel: 'icon', href: '/fmhy.ico' }],
+    ['link', { rel: 'icon', href: '/FreeForUs.ico' }],
     [
       'link',
       {
         rel: 'alternate',
         type: 'application/rss+xml',
-        title: 'FMHY RSS Feed',
+        title: 'FreeForUs RSS Feed',
         href: '/feed.rss'
       }
     ],
@@ -294,13 +294,13 @@ export default defineConfig({
         `<br/> This site does not host any files.`
     },
     editLink: {
-      pattern: 'https://github.com/fmhy/edit/edit/main/docs/:path',
+      pattern: 'https://github.com/FreeForUs/edit/edit/main/docs/:path',
       text: '📝 Edit this page'
     },
     outline: 'deep',
     logo: {
-      src: '/fmhy.ico',
-      alt: 'FMHY Logo'
+      src: '/FreeForUs.ico',
+      alt: 'FreeForUs Logo'
     },
     nav,
     sidebar,

@@ -47,7 +47,7 @@ const applySeasonalBranding = () => {
 
   const favicon = document.querySelector<HTMLLinkElement>("link[rel='icon']")
   if (favicon) {
-    favicon.href = isJune ? '/june_icon.webp' : '/fmhy.ico'
+    favicon.href = isJune ? '/june_icon.webp' : '/FreeForUs.ico'
     favicon.type = isJune ? 'image/webp' : 'image/x-icon'
   }
 }

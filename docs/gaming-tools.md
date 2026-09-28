@@ -79,7 +79,7 @@
 * ⭐ **[MSI Afterburner](https://www.msi.com/Landing/afterburner)** - Overclocking Tool / Hardware Monitor / Avoid Norton 360 in Installer / Windows
 * ⭐ **[MSI Kombustor](https://www.geeks3d.com/furmark/kombustor/)** - GPU Benchmark Test / Windows
 * ⭐ **[DisplayMagician](https://displaymagician.littlebitbig.com/)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles / Windows
-* ⭐ **[Lossless Scaling](https://fmhy.net/gaming#download-games)** (search), **[OptiScaler](https://github.com/optiscaler/OptiScaler)** / [Manager](https://github.com/Agustinm28/Optiscaler-Client) or **[Magpie](https://github.com/Blinue/Magpie)** - Game Upscaling
+* ⭐ **[Lossless Scaling](https://FreeForUs.net/gaming#download-games)** (search), **[OptiScaler](https://github.com/optiscaler/OptiScaler)** / [Manager](https://github.com/Agustinm28/Optiscaler-Client) or **[Magpie](https://github.com/Blinue/Magpie)** - Game Upscaling
 * [SystemRequirementsLab](https://www.systemrequirementslab.com/cyri/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Tests
 * [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) - FPS / Latency Guides
 * [Fraps](https://fraps.com/), [RTSS](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Game Bar](https://rentry.co/WindowsFPS) - FPS Monitors / Windows
@@ -123,7 +123,7 @@
 ***
 
 * 🌐 **[Gamepadla](https://gamepadla.com/)** - Gamepad / Controller Latency Tests
-* ⭐ **[DS4Windows](https://github.com/schmaldeo/DS4Windows)**, [⁠DS4Windows (Fork)](https://github.com/hbashton/DS4Windows), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [DualSenseY](https://github.com/WujekFoliarz/DualSenseY-v2), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools / [Steam Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/steam-controller-support.md)
+* ⭐ **[DS4Windows](https://github.com/schmaldeo/DS4Windows)**, [⁠DS4Windows (Fork)](https://github.com/hbashton/DS4Windows), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [DualSenseY](https://github.com/WujekFoliarz/DualSenseY-v2), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools / [Steam Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/steam-controller-support.md)
 * [x360ce](https://www.x360ce.com/) - DS4 / 360 Controller Emulator / [GitHub](https://github.com/x360ce/x360ce)
 * [DsHidMini](https://docs.nefarius.at/projects/DsHidMini/) - Use PS3 Controllers on Windows
 * [JoyToKey](https://joytokey.net/en/) - Controller Emulator
@@ -151,7 +151,7 @@
 ***
 
 * 🌐 **[Big List of Randomizers](https://randomizers.debigare.com/)** - Game Randomizer Index / [Discord](https://discord.com/invite/YREMzGQ3gd) / [GitHub](https://github.com/video-game-randomizers/rando-list)
-* ↪️ **[Game Mods](https://rentry.co/FMHYB64#game-mods)** - Mods for Individual Games
+* ↪️ **[Game Mods](https://rentry.co/FreeForUsB64#game-mods)** - Mods for Individual Games
 * ↪️ **[Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_minecraft_mods)**
 * ↪️ **[GTA Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_gta_tools)**
 * ⭐ **[ModDB](https://moddb.com/)** - Game Mods / [Discord](https://discord.gg/5DTa2tf)
@@ -159,7 +159,7 @@
 * ⭐ **[Thunderstore](https://thunderstore.io/)** - Unity Game Mods / Mod Manager / [Discord](https://discord.thunderstore.io/)
 * ⭐ **[GameBanana](https://gamebanana.com/)** - Game Mods / [Discord](https://discord.com/invite/h5xJv9M)
 * ⭐ **[ModdingLinked](https://moddinglinked.com/)** / [Discord](https://discord.com/invite/S99Ary5eba) or [⁠Step Modifications](https://stepmodifications.org/) - Bethesda Game Modding Guides
-* [Wand](https://wand.com/) - Mods / Trainer Manager / [Features](https://rentry.co/FMHYB64#wemod), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games) (search)
+* [Wand](https://wand.com/) - Mods / Trainer Manager / [Features](https://rentry.co/FreeForUsB64#wemod), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games) (search)
 * [ModOrganizer](https://github.com/ModOrganizer2/modorganizer) - Mod Manager
 * [Vortex](https://www.nexusmods.com/vortex) - Mod Manager
 * [Mod.io](https://www.mod.io/) - Cross-Platform Game Mods Support / [Discord](https://discord.com/invite/modio)
@@ -255,7 +255,7 @@
 # ► Tracking / Databases
 
 * ⭐ **[Backloggd](https://www.backloggd.com/)** - Tracking / Database / [Discord](https://discord.gg/cMjGusjbwg)
-* ⭐ **[Glitchwave](https://glitchwave.com/)** - Tracking / Database / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/glitchwave-note.md)
+* ⭐ **[Glitchwave](https://glitchwave.com/)** - Tracking / Database / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/glitchwave-note.md)
 * ⭐ **[Infinite Backlog](https://infinitebacklog.net/)** - Tracking / Database / [Discord](https://discord.gg/v4SUud7)
 * [⁠AxekinDB](https://db.axekin.com/) - Game Data Database
 * [Incendar](https://incendar.com/), [⁠gamereleases.gg](https://gamereleases.gg/) or [⁠Midloop](https://midloop.net/) / [Discord](https://discord.gg/AvUxR59Yv5) - Game Release Date Trackers
@@ -378,13 +378,13 @@
 * ⭐ **[Goldberg Fork](https://github.com/Detanup01/gbe_fork)** / [Guide](https://rentry.co/goldberg_emulator) or [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935&sid=c6b5dadd40d56ac20a8789121bb743c5) - Offline Steam / Multiplayer Emulators
 * ⭐ **[Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)** - Epic Online Service Emulator
 * ⭐ **[Steam-Auto-Crack](https://github.com/SteamAutoCracks/Steam-auto-crack/)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) / [GUI](https://github.com/harryeffinpotter/Steam-Autocracker-GUI/) - Auto Apply Cracks
-* [⁠OpenSteamTool](https://github.com/OpenSteam001/OpenSteamTool) - Steam Game + DLC Unlocker / [Guide](https://rentry.org/opensteamtoolguidefmhy)
+* [⁠OpenSteamTool](https://github.com/OpenSteam001/OpenSteamTool) - Steam Game + DLC Unlocker / [Guide](https://rentry.org/opensteamtoolguideFreeForUs)
 * [⁠SmokeAPI](https://github.com/acidicoala/SmokeAPI) - Steam DLC Unlocker
 * [CreamInstaller Revival](https://cs.rin.ru/forum/viewtopic.php?f=20&t=154539) - Steam DLC Unlocker / [GitHub](https://github.com/FroggMaster/CreamInstaller)
 * [Koalageddon](https://gitlab.com/DumbCodeGenerator/koalageddon) - Steam DLC / Family Unlocker
 * [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Origin and EA
 * [LuaTools](https://lua.tools/) - Steam Game Unlocker w/ Multitool, DLC Unlockers + Auto Online Fix / [GitHub](https://github.com/madoiscool/LuaTools)
-* [Anadius](https://rentry.co/FMHYB64#anadius) - EA DLC Unlocker
+* [Anadius](https://rentry.co/FreeForUsB64#anadius) - EA DLC Unlocker
 * [ScreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=3559996#p3559996) - Epic DLC Unlocker
 * [⁠XStoreUnlocker](https://github.com/Zephkek/XStoreUnlocker) - Microsoft Store + Xbox PC DLC Unlocker
 * [⁠FULU Bounties](https://bounties.fulu.org/) - Console DRM Removal Bounties
@@ -403,7 +403,7 @@
 * [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam / [GitHub](https://github.com/BrianLima/UWPHook)
 * [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
 * [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Confirmation
-* [Steam Currency Converter](https://github.com/Solidet-com/steam-currency-converter) - Steam Currency Converter / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/steam-currency-converter-note.md) 
+* [Steam Currency Converter](https://github.com/Solidet-com/steam-currency-converter) - Steam Currency Converter / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/steam-currency-converter-note.md) 
 
 ***
 
@@ -425,7 +425,7 @@
 # ► Multiplayer Tools
 
 * ⭐ **[Nucleus Co-op](https://github.com/SplitScreen-Me/splitscreenme-nucleus)** - Local Split-Screen PC Multiplayer / [Subreddit](https://www.reddit.com/r/nucleuscoop/) / [Discord](https://discord.com/invite/distro-nucleusco-op-142649962839277568)
-* [Fightcade](https://www.fightcade.com/) - Retro Multiplayer Game Matchmaking Tool / [Automation Guide](https://rentry.co/FMHYB64#fightcade) / [Discord](https://discord.gg/EyERRSg)
+* [Fightcade](https://www.fightcade.com/) - Retro Multiplayer Game Matchmaking Tool / [Automation Guide](https://rentry.co/FreeForUsB64#fightcade) / [Discord](https://discord.gg/EyERRSg)
 * [⁠GameDate](https://www.gamedate.org/) / [Subreddit](https://www.reddit.com/r/GameDate/), [NetplayFinder](https://www.netplayfinder.com/) / [Discord](https://discord.com/invite/SkRE39MGr7) or [Broop](https://broop.id/) - Game Session Scheduling / Group Finders
 * [⁠start.gg](https://www.start.gg/) - Organize / Track Esports Tournaments
 * [⁠bo3.gg](https://bo3.gg/) - Track ESport Matches, Scores and Streams
@@ -465,14 +465,14 @@
 * [IW4x](https://iw4x.io/) - COD Modern Warfare 2 (2009) Multiplayer Client / Requires Clean Files / [Discord](https://discord.com/invite/pV2qJscTXf) / [GitHub](https://github.com/iw4x/iw4x-client)
 * [Aurora](https://auroramod.dev/) - Modern Warfare Remastered + Infinite Warfare Multiplayer Client / Requires Clean Files / [Discord](https://discord.com/invite/6pSNTjtTCG) / [GitHub](https://github.com/auroramod/h1-mod)
 * [HorizonMW](https://discord.gg/horizonmw) - Modern Warfare Remastered Multiplayer Client / [Guide](https://youtu.be/BgfTZMXeQ8E) / [Servers / Info](https://master.iw4.zip/)
-* [Ezz-BOIII](https://rentry.co/FMHYB64#boiii) - COD Black Ops 3 Multiplayer Client
+* [Ezz-BOIII](https://rentry.co/FreeForUsB64#boiii) - COD Black Ops 3 Multiplayer Client
 * [CoD4x Mod](https://cod4x.ovh/) - COD4 (2007) Multiplayer Project / Requires MP Key / [Discord](https://discord.cod4x.ovh/)
 * [Venice Unleashed](https://veniceunleashed.net/) / [Discord](https://discord.com/invite/dpJwaVZ) or [Warsaw Revamped](https://warsaw.gg/) / [Discord](https://discord.com/invite/C9Zrh4G) - Battlefield Mod Projects
 * [SM64 Coop Deluxe](https://sm64coopdx.com/) - Super Mario 64 Co-Op / [Discord](https://discord.gg/TJVKHS4) / [GitHub](https://github.com/coop-deluxe/sm64coopdx)
 * [Smash64](https://smash64.online/) - Super Smash Bros 64 Online / [Discord](https://discord.gg/ssb64)
 * [Marne](https://marne.io/) - BF1 Multiplayer Project / [Discord](https://marne.io/discord)
 * [Slippi](https://slippi.gg/) - Super Smash Bros Melee Online / [Discord](https://discord.com/invite/pPfEaW5)
-* [MBAACC](https://rentry.co/FMHYB64#mbaacc) - Melty Blood Community Edition / Improved Netcode / [Discord](https://discord.gg/KeuSaJ5My8)
+* [MBAACC](https://rentry.co/FreeForUsB64#mbaacc) - Melty Blood Community Edition / Improved Netcode / [Discord](https://discord.gg/KeuSaJ5My8)
 * [Tilted Online](https://wiki.tiltedphoques.com/tilted-online/) - Multiplayer Skyrim & Fallout 4 / [Setup Guide](https://youtu.be/ytSftFoQQHA) / [Discord](https://discord.gg/skyrimtogether) / [GitHub](https://github.com/tiltedphoques/TiltedEvolution)
 * [NV:MP](https://nv-mp.com/) - Fallout: New Vegas Multiplayer / [Discord](https://discord.com/invite/mKVdhmEDrW)
 * [Nitrox](https://nitrox.rux.gg/) - Subnautica Multiplayer Mod / Requires Clean Files / [Subreddit](https://www.reddit.com/r/SubnauticaNitrox/) / [Discord](https://discord.gg/E8B4X9s) / [GitHub](https://github.com/SubnauticaNitrox/Nitrox)
@@ -511,7 +511,7 @@
 * [⁠Crysis Wars MP](https://crysiswarsmp.com/) - Crysis Warhead Multiplayer Revival / [Discord](https://discord.gg/RBmvztP)
 * [FXPGunZ](https://fxpgunz.com/) - GunZ Multiplayer Revival
 * [⁠Cypress](https://github.com/PvZ-Cypress/Cypress) or [GardenGate](https://github.com/nocss42/GardenGate) / [Discord](https://discord.gg/sEs9NcUrF9) - PvZ Garden Warfare 1 + 2 and Battle for Neighborville Private Servers
-* [OpenExonaut](https://rentry.co/FMHYB64#openexonaut) - Cartoon Network's Project Exonaut Multiplayer Revival
+* [OpenExonaut](https://rentry.co/FreeForUsB64#openexonaut) - Cartoon Network's Project Exonaut Multiplayer Revival
 * [RisingHub](https://risinghub.net/) - Battlefield Heroes Revival Project / [Discord](https://discord.gg/GqxxgBj)
 * [⁠Carbon](https://discord.gg/52d8ydB5dz) - Self-Hostable Private Fortnite Servers / 1.7.2-30.00 & 30.10+ Via Proxy
 * [Revive Joint Operations](https://revivejointops.com/) or [JointOps2024](https://jointops2024.com/) - Joint Ops Revival Project / Clean Files Required / [YouTube](https://www.youtube.com/@SPAGHETTI-JO) / [Discord](https://discord.com/invite/7AG8gTq)
@@ -520,8 +520,8 @@
 * [Clash of Magic](https://www.clashofmagic.io/) / [Discord](https://discord.gg/eSbkhDF) or [Atrasis](https://atrasisclash.net/) / [Discord](https://discord.gg/wmSjaTJ) - Clash of Clans Private Servers
 * [Rusticaland](https://rusticaland.net/) - Free Rust Servers / [Discord](https://discord.com/invite/MD9RgdYhpf)
 * [The Crew Unlimited](https://thecrewunlimited.com/) - The Crew 1 Revival Project / [Discord](https://discord.gg/Ms7T5vWgP5)
-* [BFME Arena](https://rentry.co/FMHYB64#bfme) - LOTR: The Battle for Middle-Earth Multiplayer / Launcher
-* [Echoes of Angmar](https://rentry.co/FMHYB64#echoes-of-angmar) - Lord of the Rings Online Classic Server
+* [BFME Arena](https://rentry.co/FreeForUsB64#bfme) - LOTR: The Battle for Middle-Earth Multiplayer / Launcher
+* [Echoes of Angmar](https://rentry.co/FreeForUsB64#echoes-of-angmar) - Lord of the Rings Online Classic Server
 * [Ephinea](https://ephinea.pioneer2.net/) - Phantasy Star Online Blue Burst Server Revival
 * [PSO Servers](https://www.reddit.com/r/PSO/wiki/servers) - Phantasy Star Online 1 Server Revivals
 * [DramaSO](https://www.dramaso.org/) - Sims Online Server Revival
@@ -585,7 +585,7 @@
 * [r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - Wii U Homebrew Subreddit
 * [r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
 * [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
-* [WiiMart](https://wiimart.org/) / [Discord](https://discord.com/invite/wiimart-1346485785284575335) / [GitHub](https://github.com/WiiMart/WiiMart) or [Wii Shop Web](https://rentry.co/FMHYB64#wsc) - Wii Shop Channel Revivals / Free Games & Points
+* [WiiMart](https://wiimart.org/) / [Discord](https://discord.com/invite/wiimart-1346485785284575335) / [GitHub](https://github.com/WiiMart/WiiMart) or [Wii Shop Web](https://rentry.co/FreeForUsB64#wsc) - Wii Shop Channel Revivals / Free Games & Points
 * [⁠TinyWiiBackupManager](https://github.com/mq1/TinyWiiBackupManager) - Wii Backup Manager / Homebrew App 
 * [WBFStoISO](https://www.wbfstoiso.com/) - WBFS to ISO
 
@@ -625,12 +625,12 @@
 * [PS4 Package Extractor](https://www.nexusmods.com/bloodborne/mods/194) - PS4 Package Extraction Tool
 * [r/PS3Homebrew](https://reddit.com/r/ps3homebrew) or [r/PS3Piracy](https://www.reddit.com/r/ps3piracy/) - PS3 Homebrew / Piracy Subreddits
 * [⁠webMAN MOD](https://aldostools.github.io/webMAN-MOD/) - Add Extended Services to PS3 Consoles / [GitHub](https://github.com/aldostools/webMAN-MOD)
-* [Brewology](https://store.brewology.com/) or [PS Network Database](https://rentry.co/FMHYB64#ps-content) - PS3 Homebrew Stores
+* [Brewology](https://store.brewology.com/) or [PS Network Database](https://rentry.co/FreeForUsB64#ps-content) - PS3 Homebrew Stores
 * [PS3 Disc Dumper](https://github.com/13xforever/ps3-disc-dumper) - Decrypted PS3 Disc Dumper
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Rusty Pan](https://github.com/RainbowCookie32/rusty-psn) - Update PS3 Games
 * [⁠PS2 Scene](https://discord.com/invite/Bd3A7v8) - PS2 Homebrew Discord
 * [⁠r/PS2Homebrew](https://www.reddit.com/r/ps2homebrew/) - PS2 Homebrew Subreddit
-* [PSBBN Patch](https://rentry.co/FMHYB64#psbbn-definitive) - PSBBN Definitive Project
+* [PSBBN Patch](https://rentry.co/FreeForUsB64#psbbn-definitive) - PSBBN Definitive Project
 * [PSXDev](https://www.psxdev.net/) - PS1 Development
 * [MemcardRex](https://archive.org/details/MemcardRex1.8) - PS1 Save Transfer Tools
 * [PSVitaAlive Store](https://vegettosan.github.io/PSVitaAlive/) - PSVita Homebrew Store / Game Downloader / [GitHub](https://github.com/VegettoSan/PSVitaAlive)
@@ -644,10 +644,10 @@
 ## ▷ Xbox Homebrew
 
 * 🌐 **[r/360Hacks Guide](https://redd.it/8y9jql)** - Xbox 360 Modding Guides List
-* ⭐ **[Team Resurgent](https://rentry.co/FMHYB64#team-resurgent)** - Xbox Homebrew Tools
+* ⭐ **[Team Resurgent](https://rentry.co/FreeForUsB64#team-resurgent)** - Xbox Homebrew Tools
 * [r/XboxModding](https://www.reddit.com/r/XboxModding/) or [r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/) - Xbox Homebrew Subreddits
 * [r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/) - Xbox One/Series Homebrew Subreddit
-* [Xbox 360 Stealth Servers Guide](https://rentry.co/FMHYB64#xbox-ss)
+* [Xbox 360 Stealth Servers Guide](https://rentry.co/FreeForUsB64#xbox-ss)
 * [Insignia](https://insignia.live/) - Original Xbox Replacement Servers / [Discord](https://discord.gg/CWkdVdc)
 * [⁠dbox.tools](https://dbox.tools/) - Xbox 360 Content Database / Requires Decompiler
 * [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
@@ -717,9 +717,9 @@
 ## ▷ Launchers
 
 * ⭐ **[PineconeMC](https://pineconemc.ru/)**, [2](https://elyprismlauncher.github.io/) / [Discord](https://discord.gg/5kcBCvnbTp) / [GitHub](https://github.com/ElyPrismLauncher/Launcher), **[Freesm Launcher](https://freesmlauncher.org/)** / [Theme Creator](https://new.freesmlauncher.org/themes) / [Telegram](https://t.me/freesmteam) / [Discord](https://discord.com/invite/6jjw4gjy4w) / [GitHub](https://github.com/FreesmTeam/FreesmLauncher) or [ShatteredPrism](https://github.com/LunaisLazier/ShatteredPrism) - Prism Launcher Forks w/ Alt Auth Server Support / Windows, macOS, Linux
-* ⭐ **[Zalith Launcher](https://www.zalithlauncher.cn/)** / [Offline](https://rentry.co/FMHYB64#zalith) / [Discord](https://discord.gg/yDDkTHp4cJ) / [GitHub](https://github.com/ZalithLauncher/ZalithLauncher2), [Mojolauncher](https://github.com/mojolauncher/mojolauncher) / [Discord](https://discord.com/invite/VHdwQFsaGX) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.com/invite/ffhvuXTwyV) - Java Edition for Mobile / Android
+* ⭐ **[Zalith Launcher](https://www.zalithlauncher.cn/)** / [Offline](https://rentry.co/FreeForUsB64#zalith) / [Discord](https://discord.gg/yDDkTHp4cJ) / [GitHub](https://github.com/ZalithLauncher/ZalithLauncher2), [Mojolauncher](https://github.com/mojolauncher/mojolauncher) / [Discord](https://discord.com/invite/VHdwQFsaGX) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.com/invite/ffhvuXTwyV) - Java Edition for Mobile / Android
 * [HMCL](https://hmcl.huangyuhui.net/) / [GitHub](https://github.com/HMCL-dev/HMCL), [SKlauncher](https://skmedix.pl/) / [Ad Bypass](https://greasyfork.org/en/scripts/563188), [X Minecraft Launcher](https://xmcl.app/) / [Discord](https://discord.com/invite/W5XVwYY7GQ), [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/), [Legacy Launcher](https://llaun.ch/en), [AstralRinth](https://git.astralium.su/didirus/AstralRinth) or [PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - Cross-Platform Launchers
-* [Betacraft Launcher](https://betacraft.uk/) / [2](https://betacraft.ee/) / [3](https://betacraft.ovh/) / [LegacyFix](https://github.com/betacraftuk/legacyfix) or [Minecraft Legacy](https://rentry.co/FMHYB64#mc-legacy) - Legacy & Console Edition Launchers
+* [Betacraft Launcher](https://betacraft.uk/) / [2](https://betacraft.ee/) / [3](https://betacraft.ovh/) / [LegacyFix](https://github.com/betacraftuk/legacyfix) or [Minecraft Legacy](https://rentry.co/FreeForUsB64#mc-legacy) - Legacy & Console Edition Launchers
 
 ***
 
@@ -730,7 +730,7 @@
 ***
 
 * 🌐 **[Minecraft Launcher Comparisons](https://mc-launcher.tayou.org/)** - Minecraft Launcher Comparison Chart / [GitHub](https://github.com/TayouVR/MinecraftLauncherComparison)
-* ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / [CurseForge Downloads](https://rentry.co/FMHYB64#curseforge-overwolf) / Windows, macOS, Linux / [Subreddit](https://www.reddit.com/r/PrismLauncher/) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
+* ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / [CurseForge Downloads](https://rentry.co/FreeForUsB64#curseforge-overwolf) / Windows, macOS, Linux / [Subreddit](https://www.reddit.com/r/PrismLauncher/) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
 * [ATLauncher](https://atlauncher.com/) / [Discord](https://discord.com/invite/B7TrrzH) / [GitHub](https://github.com/ATLauncher/ATLauncher), [Technic Launcher](https://www.technicpack.net/) / [Discord](https://discord.com/invite/technic), [FjordLauncher](https://github.com/unmojang/FjordLauncher) or [PandoraLauncher](https://pandora.moulberry.com/) / [GitHub](https://github.com/Moulberry/PandoraLauncher) - Desktop Modpack Launchers
 * [LeviLauncher](https://levilauncher.levimc.org/) / [GitHub](https://github.com/LiteLDev/LeviLauncher), [Bedrock Launcher](https://bedrocklauncher.github.io/) / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher) / [Note](https://i.ibb.co/DDZdRHMf/kckgkvcd.png), [WineGDK](https://github.com/Weather-OS/WineGDK) / [Guide](https://minecraft.wiki/w/Tutorial:Playing_Minecraft_on_Linux#WineGDK) or [BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Bedrock Launchers for Windows, macOS, Linux
 * [Amethyst](https://github.com/AngelAuraMC/Amethyst-Android) / [iOS](https://github.com/AngelAuraMC/Amethyst-iOS) / [Discord](https://discord.gg/5ptqkyZxEy) or [MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) - Mobile Launchers / Android, iOS
@@ -1072,7 +1072,7 @@
 * [FiveM](https://fivem.net/) or [RAGE](https://rage.mp/) / [Discord](https://discord.com/invite/tChBaeu) - Modded GTAV Servers / Requires Legit Copy
 * [⁠GTA Base Vehicle ](https://www.gtabase.com/gta-6/vehicles/) or [GTA Cars](https://gtacars.net/) - GTA Vehicle Databases / Stats
 * [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods
-* [Updated Classic](https://rentry.co/FMHYB64#updated-classic) - Classic Rockstar Games Fixes + QOL Improvements
+* [Updated Classic](https://rentry.co/FreeForUsB64#updated-classic) - Classic Rockstar Games Fixes + QOL Improvements
 * [GTA Connected](https://gtaconnected.com/) - Multiplayer Mod / GTA III, IV, VC, SA / [Discord](https://discord.gg/YSyasDa)
 * [Vice City: Multiplayer](https://vc-mp.org/) - Multiplayer GTA:VC
 * [GTA Manager](https://func-vehicle.github.io/gtamanager/) - GTA V Business Manager
@@ -1092,7 +1092,7 @@
 * [Freedoom](https://freedoom.github.io/) - Open-Source Doom Assets
 * [Doom64 EX](https://doom64ex.wordpress.com/downloads/) - Doom 64 PC Port
 * [dhewm3](https://dhewm3.org/) - Doom 3 Source Port
-* [Doom WADs Indexes](https://rentry.co/FMHYB64#doom-wads) or [Doom Wad Station](https://www.doomwadstation.net/) - Doom WADs
+* [Doom WADs Indexes](https://rentry.co/FreeForUsB64#doom-wads) or [Doom Wad Station](https://www.doomwadstation.net/) - Doom WADs
 * [DOOM FX](https://github.com/RandalLinden/DOOM-FX) - Doom SNES Source Code
 * [UltimateDoomBuilder](https://ultimatedoombuilder.github.io/) - Doom Map Builder
 

@@ -87,7 +87,7 @@ function extractLinkMetadata(html: string) {
   const urls = new Set<string>()
   const starredUrls = new Set<string>()
   const stripTags = (str: string) => str.replace(/<[^>]*>/g, ' ')
-  // Strip zero-width / word-joiner chars. The FMHY wiki sprinkles U+2060 (and
+  // Strip zero-width / word-joiner chars. The FreeForUs wiki sprinkles U+2060 (and
   // occasionally U+200B) inside link text as a visual workaround; leaving them
   // in metadata phrases breaks exact/prefix tier matching at search time.
   const stripInvisible = (str: string) => str.replace(INVISIBLE_CHARS_RE, '')

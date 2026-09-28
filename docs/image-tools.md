@@ -10,11 +10,11 @@
 
 ## ▷ Editing Software
 
-* ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** or [Keyflame](https://rentry.co/FMHYB64#keyflame) - Editing Software
+* ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** or [Keyflame](https://rentry.co/FreeForUsB64#keyflame) - Editing Software
 * ↪️ **[Android Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_tools)**
 * ⭐ **[GIMP](https://www.gimp.org/)** / Windows, macOS, Linux / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/) / [GitLab](https://gitlab.gnome.org/GNOME/gimp)
 * ⭐ **[ImageMagick](https://imagemagick.org/)** / Windows, macOS, Linux, iOS / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [GitHub](https://github.com/imagemagick/imagemagick)
-* [⁠Affinity](https://www.affinity.studio/) / Windows, macOS / [Linux](https://github.com/ryzendew/Linux-Affinity-Installer) / [No Login Method](https://rentry.co/FMHYB64#affinity)
+* [⁠Affinity](https://www.affinity.studio/) / Windows, macOS / [Linux](https://github.com/ryzendew/Linux-Affinity-Installer) / [No Login Method](https://rentry.co/FreeForUsB64#affinity)
 * [⁠PaintFE](https://paintfe.com/) / Windows, macOS, Linux / [GitHub](https://github.com/kylejckson/PaintFE)
 * [LazPaint](https://lazpaint.github.io/) / Windows, macOS, Linux / [GitHub](https://github.com/bgrabitmap/lazpaint/)
 * [PhotoDemon](https://photodemon.org/) / Windows / [GitHub](https://github.com/tannerhelland/PhotoDemon)
@@ -70,7 +70,7 @@
 * [Crisp Photos](https://crisp.photos/) - Image Upscaling / Web
 * [⁠Upscal](https://upscal.app/) - Image Upscaling / Web
 * [Final2x](https://github.com/Tohrusky/Final2x) - Image Upscaling / Self-Hosted
-* [Lossless Scaling](https://fmhy.net/gaming#download-games) (search) - Image Upscaling
+* [Lossless Scaling](https://FreeForUs.net/gaming#download-games) (search) - Image Upscaling
 * [imgupscaler](https://imgupscaler.com/) - Image Upscaling / Web
 * [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image & Video Upscaling / Windows
 * [resdet](https://github.com/0x09/resdet) - Detect Source Resolution of Upscaled Images / Windows, macOS, Linux
@@ -259,7 +259,7 @@
 
 * ⭐ **[Figma](https://www.figma.com/)** - Design Collab App / Web
 * [Plasmic](https://www.plasmic.app/) - Design Collab App / Web
-* [Canva](https://www.canva.com/) - Design App / Windows, macOS, Web / [Invites](https://rentry.co/FMHYB64#canva)
+* [Canva](https://www.canva.com/) - Design App / Windows, macOS, Web / [Invites](https://rentry.co/FreeForUsB64#canva)
 * [lunacy](https://icons8.com/lunacy) - Design App / Windows, macOS, Linux
 * [VistaCreate](https://create.vista.com/) - Design App / Web
 * [Penpot](https://penpot.app/) - Design App & Prototyping Platform / [GitHub](https://github.com/penpot/penpot)
@@ -501,7 +501,7 @@
 ## ▷ Download Extensions
 
 * [Download all Images](https://webextension.org/listing/save-images.html) / [GitHub](https://github.com/belaviyo/save-images/)
-* [Cute Save Button](https://github.com/Dezaimasu/cute-button) / [Changing the Save Icon](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/cute-save-button-icon.md)
+* [Cute Save Button](https://github.com/Dezaimasu/cute-button) / [Changing the Save Icon](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/cute-save-button-icon.md)
 * [svgexport](https://svgexport.io/)
 * [SVG Gobbler](https://github.com/rossmoody/svg-gobbler)
 * [Image Picka](https://github.com/eight04/image-picka)
@@ -791,7 +791,7 @@
 * [Ente](https://ente.com/) - Unlimited / 10GB Cloud
 * [Piczel](https://piczel.tv/) - 10MB / Forever / Requires Sign-Up
 * [TurboImageHost](https://www.turboimagehost.com/) - 20MB / Forever
-* [⁠gotohp](https://rentry.co/FMHYB64#gotohp) - Save Morphe Session for Unlimited Google Photo Uploads
+* [⁠gotohp](https://rentry.co/FreeForUsB64#gotohp) - Save Morphe Session for Unlimited Google Photo Uploads
 * [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
 * [⁠Google Photos Deduper](https://github.com/mtalcott/google-photos-deduper) - Google Photos Duplicate Remover 
 * [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/Xentraxx/GooglePhotosTakeoutHelper_Neo) / [Migration Tool](https://github.com/garzj/google-photos-migrate)

@@ -584,14 +584,14 @@ files.forEach((file) => {
         )
       }
 
-      const isFmhyInternalReference =
-        hostnameMatches('fmhy.net') ||
+      const isFreeForUsInternalReference =
+        hostnameMatches('FreeForUs.net') ||
         (hostnameMatches('reddit.com') &&
           parsedUrl.pathname
             .toLowerCase()
             .includes('/r/freemediaheckyeah/wiki/')) ||
         (hostnameMatches('github.com') &&
-          parsedUrl.pathname.toLowerCase().startsWith('/fmhy/fmhy/wiki/'))
+          parsedUrl.pathname.toLowerCase().startsWith('/FreeForUs/FreeForUs/wiki/'))
 
       const isKnownLabelRedirect = (label) => {
         if (LABEL_REDIRECT_EXCEPTIONS[label]?.has(parsedUrl.href)) return true
@@ -643,7 +643,7 @@ files.forEach((file) => {
         // Also allow "r/" prefix check separately
         if (trimmedLabel === check.key) {
           if (
-            !isFmhyInternalReference &&
+            !isFreeForUsInternalReference &&
             !isKnownLabelRedirect(check.key) &&
             !check.domains.some(hostnameMatches)
           ) {
@@ -657,7 +657,7 @@ files.forEach((file) => {
 
       // Special check for "r/" prefix (e.g. [r/OpenAI]) - ONLY if it's the full label
       if (/^r\/[a-zA-Z0-9_]+$/.test(trimmedLabel)) {
-        if (!isFmhyInternalReference && !hostnameMatches('reddit.com')) {
+        if (!isFreeForUsInternalReference && !hostnameMatches('reddit.com')) {
           addError(
             `Link label mismatch: Subreddit label "${lm[1]}" points to non-reddit domain: ${lm[2]}`,
             lm[0]
@@ -668,7 +668,7 @@ files.forEach((file) => {
       // Special check for "X" label (social media)
       if (
         trimmedLabel === 'x' &&
-        !isFmhyInternalReference &&
+        !isFreeForUsInternalReference &&
         !hostnameMatches('x.com') &&
         !hostnameMatches('twitter.com') &&
         !hostnameMatches('t.co')

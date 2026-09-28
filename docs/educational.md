@@ -71,7 +71,7 @@
 
 # ► Learning Sites
 
-* 🌐 **[Learn Anything](https://learn-anything.xyz/)** - Learning Resource Search / [Free Method](https://rentry.co/FMHYB64#learn-anything) / [Discord](https://discord.gg/W7yDkEN67Y) / [GitHub](https://github.com/learn-anything/learn-anything)
+* 🌐 **[Learn Anything](https://learn-anything.xyz/)** - Learning Resource Search / [Free Method](https://rentry.co/FreeForUsB64#learn-anything) / [Discord](https://discord.gg/W7yDkEN67Y) / [GitHub](https://github.com/learn-anything/learn-anything)
 * 🌐 **[OpenCulture](https://www.openculture.com/)** - Learning Resources
 * 🌐 **[⁠The Borr Project](https://borr.dev/)** / [Discord](https://discord.gg/uR2QS36pdH) or **[OSSU](https://github.com/ossu/)** / [Discord](https://discord.gg/wuytwK5s9h) - Learning Resources
 * 🌐 **[The Free Learning List](https://freelearninglist.org/)** - Learning Resources
@@ -1109,7 +1109,7 @@
 * [DialectArchive](https://www.dialectsarchive.com/globalmap) - Listen to Accents
 * [TeachMeHebrew](https://www.teachmehebrew.com/) - Learn Hebrew
 * [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
-* [Tōku Reo](https://www.tokureo.maori.nz/) - Māori Language Learning Show / [Info](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mori-note.md)
+* [Tōku Reo](https://www.tokureo.maori.nz/) - Māori Language Learning Show / [Info](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/mori-note.md)
 * [Itchy Feet Comic](https://files.catbox.moe/lq6s85.png) - Asian Script Differentiation Guide
 
 ***
@@ -1147,7 +1147,7 @@
 * [WriteAndImprove](https://writeandimprove.com/) - Improve English Writing
 * [Elsaspeak](https://elsaspeak.com/en/) - Practice English Conversations
 * [Spanish-English](https://discord.com/invite/spanish-english) or [English Chat](https://discord.gg/english) - English Learning Community / Discord
-* [Jumpinto](https://rentry.co/FMHYB64#jumpinto) or [IELTS69](https://www.ielts69.com/) - Cambridge English Practice Tests
+* [Jumpinto](https://rentry.co/FreeForUsB64#jumpinto) or [IELTS69](https://www.ielts69.com/) - Cambridge English Practice Tests
 * [⁠IELTS Liz](https://ieltsliz.com/) - IELTS Test Preparation
 * [yell0wsuit](https://yell0wsuit.page/english.html) or [OxfordLearnersDictionaries](https://www.oxfordlearnersdictionaries.com/) - Word Learning Site
 * [⁠English Phrasal Verbs](https://little-brother.github.io/english-phrasal-verbs/) - English Phrasal Verb Practice
@@ -1558,7 +1558,7 @@
 ## ▷ Data Structures
 
 * ⭐ **[Leetcode](https://leetcode.com/)** - Coding Practice
-* ⭐ **Leetcode Tools** - [Solutions](https://github.com/kamyu104/LeetCode-Solutions), [2](https://leetcode.ca/), [3](https://walkccc.me/LeetCode/), [4](https://leetcode.doocs.org/en/) / [Company Questions](https://rentry.co/FMHYB64#lcq) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/fspv/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode), [2](https://docs.google.com/spreadsheets/u/0/d/19ZIl3LeNLcKgEwNI9YF2hjkXL6ssGiFl/) / [Resources](https://github.com/ashishps1/awesome-leetcode-resources) / [Analytics](https://leetcode-company-questions.vercel.app/)
+* ⭐ **Leetcode Tools** - [Solutions](https://github.com/kamyu104/LeetCode-Solutions), [2](https://leetcode.ca/), [3](https://walkccc.me/LeetCode/), [4](https://leetcode.doocs.org/en/) / [Company Questions](https://rentry.co/FreeForUsB64#lcq) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/fspv/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode), [2](https://docs.google.com/spreadsheets/u/0/d/19ZIl3LeNLcKgEwNI9YF2hjkXL6ssGiFl/) / [Resources](https://github.com/ashishps1/awesome-leetcode-resources) / [Analytics](https://leetcode-company-questions.vercel.app/)
 * [NeetCode](https://neetcode.io/) - Coding Interview Practice
 * [Codility](https://app.codility.com/programmers/) - Coding Practice
 * [ProjectLearn](https://projectlearn.io/) - Coding Practice
@@ -1641,7 +1641,7 @@
 * [⁠20 Games Challenge](https://20_games_challenge.gitlab.io/) - Beginner Game Dev Challenges
 * [CodeWisp](https://codewisp.ai/) - Interactive Beginner Game Dev Learning
 * [Amit’s Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Game Programming Guide
-* [GameProgramBooks](https://rentry.co/FMHYB64#gameprogrambooks) - Game Programming Books
+* [GameProgramBooks](https://rentry.co/FreeForUsB64#gameprogrambooks) - Game Programming Books
 * [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - Basic Game Dev Concepts / [Web Version](https://www.pico-8-edu.com/)
 * [From Zero To Hero](https://therealpenaz91.itch.io/2dgd-f0th) - 2D Game Dev Book
 * [Web Game Dev](https://www.webgamedev.com/) - Game Dev Guides / [Discord](https://discord.com/invite/5Z28wjTeyh)
@@ -1689,7 +1689,7 @@
 * [⁠Mojza](https://mojza.org/) - Exam Study Notes
 * [⁠Get Sum Math](https://www.getsummath.com/) - GED Prep / Practice
 * [CaieFinder](https://caiefinder.com/) - Previous Cambridge Test Answers
-* [Exam Downloader](https://rentry.co/FMHYB64#et-dl) - Exam Download Tool
+* [Exam Downloader](https://rentry.co/FreeForUsB64#et-dl) - Exam Download Tool
 * [ITExams](https://www.itexams.com/) - IT Exam Collection
 * [Pearson's AP Universe](https://drive.google.com/drive/folders/1kG84_tEPph4bEQqu2GnYx84xUzbdFGLw) - AP Exam Guides / Community / [Discord](https://discord.com/invite/sTanvkAZbN)
 * [r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
@@ -1723,7 +1723,7 @@
 ## ▷ JEE / NEET
 
 * 🌐 **[r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
-* ⭐ **[PhysicsWallah](https://www.pw.live/)**, [Pirate Wallah](https://rentry.co/FMHYB64#pwallah-studystark) or [StudyShark](https://rentry.co/FMHYB64#pwallah-studystark) - JEE Lessons / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
+* ⭐ **[PhysicsWallah](https://www.pw.live/)**, [Pirate Wallah](https://rentry.co/FreeForUsB64#pwallah-studystark) or [StudyShark](https://rentry.co/FreeForUsB64#pwallah-studystark) - JEE Lessons / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
 * ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
 * ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions
 * [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs
@@ -1768,7 +1768,7 @@
 * ↪️ **[Note-Taking Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_note-taking)**
 * ↪️ **[Documents / Articles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_documents_.2F_articles)** / **[Academic Papers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_academic_papers)**
 * ↪️ **[Research Paper Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
-* ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** or [Wolfram Mobile](https://rentry.co/FMHYB64#wolfram-mobile) - Searchable Knowledge Base
+* ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** or [Wolfram Mobile](https://rentry.co/FreeForUsB64#wolfram-mobile) - Searchable Knowledge Base
 * ⭐ **[StudyLion](https://lionbot.org)** - Study Tracker / Productivity Discord Bot / [GitHub](https://github.com/StudyLions/StudyLion)
 * ⭐ **[StudyKit](https://studykit.app/)**, [Studocu](https://www.studocu.com/) / [Downloader](https://github.com/danieltyukov/studocuhack), [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/) / [Show Hidden](https://greasyfork.org/en/scripts/423872), [Shmoop](https://www.shmoop.com/), [Bitesize](https://www.bbc.co.uk/bitesize) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - Syllabus Search / Info

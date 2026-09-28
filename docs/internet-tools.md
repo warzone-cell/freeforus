@@ -85,7 +85,7 @@
 
 ## ▷ Captcha Tools
 
-* ⭐ **[Buster](https://github.com/dessant/buster)** - Auto Captcha Solver / [Improve Success Rate](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buster-note.md)
+* ⭐ **[Buster](https://github.com/dessant/buster)** - Auto Captcha Solver / [Improve Success Rate](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/buster-note.md)
 * [NopeCHA](https://nopecha.com/) - Auto Captcha Solver / [Requires Tokens](https://nopecha.com/manage) / [Discord](https://discord.com/invite/yj7cTYBQaw)
 * [Privacy Pass](https://github.com/cloudflare/pp-browser-extension) - Save Captcha Tokens
 * [Democaptcha](https://democaptcha.com/demo-form-eng/hcaptcha.html) - hCaptcha Demo / Get Captcha Tokens
@@ -112,7 +112,7 @@
 * [Spacebar](https://github.com/spacebarchat/spacebarchat) - Self-Hosted Chat Platform / Server Infrastructure
 * [Jam](https://jam.systems/) - Voice Chat / Web
 * [TeaSpeak](https://teaspeak.de/gb/) - Voice Chat / Windows, Linux, Web
-* [TeamSpeak](https://www.teamspeak.com/) - Voice Chat / Windows, macOS, Linux / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/teamspeak-warning.md)
+* [TeamSpeak](https://www.teamspeak.com/) - Voice Chat / Windows, macOS, Linux / [Warning](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/teamspeak-warning.md)
 * [Twist](https://twist.com/) - Collaboration Chat Manager / All Platforms
 * [Altus](https://github.com/amanharwara/altus) - WhatsApp Client / Windows, macOS, Linux
 * [WAO](https://dedg3.com/wao/) - WhatsApp Client / Windows, macOS
@@ -207,7 +207,7 @@
 
 * ↪️ **[Reddit Search Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_reddit_search)**
 * ⭐ **[Shodan](https://www.shodan.io/)** or [FOFA](https://fofa.info/) / [GitHub](https://github.com/FofaInfo/Awesome-FOFA) - Internet Connected Device / Public Assets Search
-* ⭐ **[FMHY Search](https://fmhy.net/posts/search)** - Search the Wiki
+* ⭐ **[FreeForUs Search](https://FreeForUs.net/posts/search)** - Search the Wiki
 * [SimilarSiteSearch](https://www.similarsitesearch.com/), [SimilarWeb](https://similarweb.com/), [SitesLikes](https://www.siteslike.com/), [TopSimilarSites](https://topsimilarsites.com/), [SimilarSites](https://similarsites.com/) or [OpenDirectory](https://odir.us/) - Similar Site Searches
 * [sitedorks](https://github.com/Zarcolio/sitedorks), [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list/), [OSINT Dorks](https://github.com/BushidoUK/OSINT-SearchOperators), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list), [Dork Genius](https://dorkgenius.com/) or [DorkSearch](https://www.dorksearch.com/) - Search Engine Dorking Tools
 * [Maigret](https://github.com/soxoj/maigret), [UserSearch](https://usersearch.com/) / [2](https://usersearch.org/), [WhatsMyName](https://whatsmyname.app/), [Sherlock](https://github.com/sherlock-project/sherlock), [Nexfil](https://github.com/thewhiteh4t/nexfil), [Tookie-OSINT](https://github.com/Alfredredbird/tookie-osint) or [Lullar](https://lullar-com-3.appspot.com/) - Username Search
@@ -345,7 +345,7 @@
 
 ## ▷ Redirect Bypass
 
-* 🌐 **[Bypass Site Index / Status](https://rentry.co/FMHYB64#abs)**
+* 🌐 **[Bypass Site Index / Status](https://rentry.co/FreeForUsB64#abs)**
 * ⭐ **[Bypass All Shortlinks Debloated](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated)** - Bypass Link Shorteners / [Userscript](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated/raw/branch/main/Bypass_All_Shortlinks.user.js)
 * ⭐ **[Evade](https://skipped.lol)** - Ad-Links Bypasser / [Userscript](https://skipped.lol/evade/evade.user.js) / [Discord](https://discord.gg/gM5vzY4fPW)
 * ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad-Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord) / [GitHub](https://github.com/bypass-vip)
@@ -356,7 +356,7 @@
 * [TimerHooker](https://timer.palerock.cn/en/) - Skip Timers on File Hosts / [Userscript](https://palerock.cn/node-service/scripts/install/@hook-js_timer/hook.timer.user.js)
 * [bypass.city](https://bypass.city/), [2](https://adbypass.org/) - Bypass Link Shorteners / [Userscript](https://api2.adbypass.org/userscript/download/bypass.user.js) / [Discord](https://discord.gg/bypass-city)
 * [Yuumari](https://yuumari.com/bypass/) - Convert Shortened Links / [Guide](https://yuumari.com/bypass/guide/) / [Userscript](https://api.yuumari.com/dl/m-links.user.js) / [Chrome](https://chrome.google.com/webstore/detail/doiagnjlaingkmdjlbfalakpnphfmnoh)
-* [Bypass FREEdlink](https://greasyfork.org/en/scripts/522735) - Bypass FREEdlink "frdl" Timers / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/bypass-freedlink.md)
+* [Bypass FREEdlink](https://greasyfork.org/en/scripts/522735) - Bypass FREEdlink "frdl" Timers / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/bypass-freedlink.md)
 
 ***
 
@@ -379,7 +379,7 @@
 * ⭐ **[T.LY](https://t.ly/)** - `t.ly/qqH6`
 * [is.gd](https://www.is.gd/) - `is.gd/9dkISG`
 * [SmartLnks](https://smartlnks.com/) - `smartlnks.com/pti`
-* [TinyURL](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tinyurl-note.md)
+* [TinyURL](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/tinyurl-note.md)
 * [refer.is](https://refer.is/) - `refer.is/gpdvk7zf`
 * [X.gd](https://x.gd/) - `x.gd/rcg0Z`
 * [nolog.link](https://nolog.link/) - `nolog.link/s/rITQhH`
@@ -441,7 +441,7 @@
 
 ## ▷ Email Clients
 
-* ⭐ **[Betterbird](https://www.betterbird.eu/)** - Thunderbird Fork / Windows, macOS, Linux / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/thunderbird.md) 
+* ⭐ **[Betterbird](https://www.betterbird.eu/)** - Thunderbird Fork / Windows, macOS, Linux / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/thunderbird.md) 
 * ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/)** / [Privacy Config](https://codeberg.org/celenity/Dove) / [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org) / Windows, macOS, Linux, Android
 * ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme) / Windows, macOS, Linux / [GitHub](https://github.com/Foundry376/Mailspring)
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) - ProtonMail Desktop Client / Windows, macOS, Linux
@@ -593,7 +593,7 @@
 * [Nextcloud](https://apps.nextcloud.com/apps/bookmarks)
 * [⁠KBNT](https://kbnt.ghomistty.com/)
 * [Cling](https://cling.com/)
-* [FMHY Startpage](https://fmhy.net/startpage)
+* [FreeForUs Startpage](https://FreeForUs.net/startpage)
 * [Renewed Tab](https://renewedtab.com/) / [Discord](https://discord.gg/zYjR54b) / [GitLab](https://gitlab.com/renewedtab/renewedtab/)
 * [mtab](https://github.com/maxhu08/mtab)
 * [nightTab](https://github.com/zombieFox/nightTab)
@@ -622,7 +622,7 @@
 
 * 🌐 **[Browser Comparisons](https://privacytests.org/)**, **[⁠BrowserPedia](https://browserpedia.com/)** or **[Eylenburg Comparisons](https://eylenburg.github.io/browser_comparison.htm)** - Browser Comparisons / Databases
 * 🌐 **[Desktop Browser List](https://nerdyslacker.github.io/desktop-web-browsers/)** - Desktop Browser Index / [GitHub](https://github.com/nerdyslacker/desktop-web-browsers)
-* ↪️ **[Recommended Browsers](https://fmhy.net/beginners-guide#browsers)**, [2](https://rentry.org/Piracy-BG#browsers) / **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
+* ↪️ **[Recommended Browsers](https://FreeForUs.net/beginners-guide#browsers)**, [2](https://rentry.org/Piracy-BG#browsers) / **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
 * ↪️ **[Android Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_browsers)**
 * ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
 * [⁠Browser Tamer](https://www.aloneguid.uk/projects/bt/) - Multi-Browser Link Redirector & Profile Switcher / [GitHub](https://github.com/aloneguid/bt)
@@ -644,7 +644,7 @@
 * ↪️ **[Firefox Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_firefox_extensions)**
 * ⭐ **[Firefox](https://www.firefox.com/)** / [Nightly](https://www.firefox.com/channel/desktop/#nightly) / [Beta](https://www.firefox.com/channel/desktop/#beta) / [GitHub](https://github.com/mozilla-firefox/firefox)
 * ⭐ **[Firefox Trains](https://whattrainisitnow.com/)** - Official Release Tracker / [GitHub](https://github.com/mozilla/releases_insights)
-* ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/) or [Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js Tweaks / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)
+* ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/) or [Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js Tweaks / [Warning](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)
 * [Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)
 * [⁠Sine](https://github.com/CosmoCreeper/Sine) - Firefox Mod / Theme Manager / [Discord](https://discord.com/invite/sine-1377068283693629592)
 * [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - Search Firefox Bookmarks

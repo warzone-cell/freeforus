@@ -2,41 +2,41 @@
 
 Official website, mirrors, GitHub, markdown, and a selfhosting guide.
 
-* **[FMHY.net](https://fmhy.net/)** - Main Website
-* [fmhyclone](https://fmhyclone.pages.dev/) - Official Mirror
-* [fmhy.pages.dev](https://fmhy.pages.dev/) - Official Mirror
-* [GitHub Source](https://github.com/fmhy/edit) - Official GitHub Source Repo
-* [Selfhosting Guide](https://fmhy.net/other/selfhosting) - Run FMHY Locally
-* [Markdown Files](https://github.com/fmhy/FMHYedit/archive/refs/heads/main.zip) - Raw .zip Archive
-* [Markdown Page](https://fmhy.net/single-page.md) (Mirrors: [2](https://api.fmhy.net/single-page) / [3](https://fmhyapi.wispy.qzz.io/single-page)) - Entire Markdown on Single Page
+* **[FreeForUs.net](https://FreeForUs.net/)** - Main Website
+* [FreeForUsclone](https://FreeForUsclone.pages.dev/) - Official Mirror
+* [FreeForUs.pages.dev](https://FreeForUs.pages.dev/) - Official Mirror
+* [GitHub Source](https://github.com/FreeForUs/edit) - Official GitHub Source Repo
+* [Selfhosting Guide](https://FreeForUs.net/other/selfhosting) - Run FreeForUs Locally
+* [Markdown Files](https://github.com/FreeForUs/FreeForUsedit/archive/refs/heads/main.zip) - Raw .zip Archive
+* [Markdown Page](https://FreeForUs.net/single-page.md) (Mirrors: [2](https://api.FreeForUs.net/single-page) / [3](https://FreeForUsapi.wispy.qzz.io/single-page)) - Entire Markdown on Single Page
 
 ***
 
 **Backup Instances**
 
-Verified instances that mirror the official FMHY [repository](https://github.com/fmhy/edit).
+Verified instances that mirror the official FreeForUs [repository](https://github.com/FreeForUs/edit).
 
-* [FMHY X](https://d.fmhy.bid/) - Alternative Style w/ Link Check
-* [FMHY Archive](https://ffmhy.pages.dev/) - Alternative Style
-* [Retro FMHY](https://retrofmhy.pages.dev/) - Alternative Style / [Improved Search](https://greasyfork.org/en/scripts/568232)
-* [fmhy.samidy.com](https://fmhy.samidy.com/)
-* [fmhy.jbugel.xyz](https://fmhy.jbugel.xyz/)
-* [fmhy.ou0.cc](https://fmhy.ou0.cc/)
-* [a-fmhy](https://a-fmhy.pages.dev/) / [GitHub](https://github.com/LandWarderer2772/A-FMHY)
-* [fmhy.artistgrid.cx](https://fmhy.artistgrid.cx/) (Mirrors: [2](https://fmhy.artistgrid.pp.ua/)/[4](https://fmhy.flax.rip/)/[5](https://fmhy.monochrome.tf/)/[6](https://fmhy.pp.ua/)/[7](https://fmhy.prigoana.com/)/[8](https://fmhy.prigoana.pp.ua/)/[9](https://fmhy.axinstagram.com/)/[10](https://fmhy.axintsagram.com/)/[11](https://fmhy.axinstagram.world/))
-* [fmhy.xyz](https://fmhy.xyz/) - Safe for Work (no nsfw page)
-* [fmhy.vercel.app](https://fmhy.vercel.app/) - Original Style
+* [FreeForUs X](https://d.FreeForUs.bid/) - Alternative Style w/ Link Check
+* [FreeForUs Archive](https://fFreeForUs.pages.dev/) - Alternative Style
+* [Retro FreeForUs](https://retroFreeForUs.pages.dev/) - Alternative Style / [Improved Search](https://greasyfork.org/en/scripts/568232)
+* [FreeForUs.samidy.com](https://FreeForUs.samidy.com/)
+* [FreeForUs.jbugel.xyz](https://FreeForUs.jbugel.xyz/)
+* [FreeForUs.ou0.cc](https://FreeForUs.ou0.cc/)
+* [a-FreeForUs](https://a-FreeForUs.pages.dev/) / [GitHub](https://github.com/LandWarderer2772/A-FreeForUs)
+* [FreeForUs.artistgrid.cx](https://FreeForUs.artistgrid.cx/) (Mirrors: [2](https://FreeForUs.artistgrid.pp.ua/)/[4](https://FreeForUs.flax.rip/)/[5](https://FreeForUs.monochrome.tf/)/[6](https://FreeForUs.pp.ua/)/[7](https://FreeForUs.prigoana.com/)/[8](https://FreeForUs.prigoana.pp.ua/)/[9](https://FreeForUs.axinstagram.com/)/[10](https://FreeForUs.axintsagram.com/)/[11](https://FreeForUs.axinstagram.world/))
+* [FreeForUs.xyz](https://FreeForUs.xyz/) - Safe for Work (no nsfw page)
+* [FreeForUs.vercel.app](https://FreeForUs.vercel.app/) - Original Style
 
 ***
 
 **Official Mirrors**
 
-Official mirrors and alternative ways to view FMHY.
+Official mirrors and alternative ways to view FreeForUs.
 
 * **[Reddit Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 * Add `/r/FREEMEDIAHECKYEAH/wiki/index` to the end of any [Redlib instance](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
-* [GitHub Backup](https://github.com/fmhy/FMHY/wiki)
-* [Rentry Backup](https://rentry.co/FMHY) / [Mirror](https://rentry.org/FMHY)
+* [GitHub Backup](https://github.com/FreeForUs/FreeForUs/wiki)
+* [Rentry Backup](https://rentry.co/FreeForUs) / [Mirror](https://rentry.org/FreeForUs)
 * [SFW Rentry](https://rentry.co/piracy) / [Mirror](https://rentry.org/piracy)
 * [.onion Backup](http://fnp47tywqhwygfkkik3dkgreocdbevjslzs6fw4zbotomcbqeuyahjqd.onion/)
 
@@ -44,4 +44,4 @@ Official mirrors and alternative ways to view FMHY.
 
 **Backup Page Backups**
 
-[FMHY.net](https://fmhy.net/other/backups) / [Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups) / [GitHub](https://github.com/nbats/FMHY/wiki/Backups/) / [Rentry](https://rentry.co/FMHYbackups/)
+[FreeForUs.net](https://FreeForUs.net/other/backups) / [Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups) / [GitHub](https://github.com/nbats/FreeForUs/wiki/Backups/) / [Rentry](https://rentry.co/FreeForUsbackups/)

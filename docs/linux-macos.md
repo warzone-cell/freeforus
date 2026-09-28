@@ -226,7 +226,7 @@
 
 * 🌐 **[Awesome Linux Audio](https://gitlab.com/nodiscc/awesome-linuxaudio)** - Live Audio Resources
 * ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** or [spotify-adblock](https://github.com/abba23/spotify-adblock) - Spotify Adblockers
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md) 
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/spicetify-note.md) 
 * ⭐ **[Shortwave](https://flathub.org/en/apps/de.haeckerfelix.Shortwave)** / [GitLab](https://gitlab.gnome.org/World/Shortwave) or [QMPlay2](https://github.com/zaps166/QMPlay2) - Radio Players
 * ⭐ **[SongRec](https://songrec.fossplant.re/)** / [GitHub](https://github.com/marin-m/SongRec) or [Mousai](https://github.com/SeaDve/Mousai) - Song Identifiers
 * ⭐ **[⁠LibrePods](https://github.com/kavishdevar/librepods)** - Use AirPod Features on Linux
@@ -245,7 +245,7 @@
 * [dopamine](https://github.com/digimezzo/dopamine) - Audio Player
 * [AudioTube](https://invent.kde.org/multimedia/audiotube), [WAVE](https://waveapp.pages.dev/), [ytermusic](https://github.com/ccgauche/ytermusic/), [⁠Mixtapes](https://github.com/m-obeid/Mixtapes) or [Monophony](https://gitlab.com/zehkira/monophony) - YouTube Music Clients
 * [cliamp](https://www.cliamp.stream/) / [GitHub](https://github.com/bjarneo/cliamp), [MOC](https://moc.daper.net/) or [Kew](https://github.com/ravachol/kew) - TUI Audio Players
-* [Deezer Linux](https://github.com/aunetx/deezer-linux) or [DZR](https://github.com/yne/dzr) - Deezer Clients / [Availability](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)
+* [Deezer Linux](https://github.com/aunetx/deezer-linux) or [DZR](https://github.com/yne/dzr) - Deezer Clients / [Availability](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)
 * [MusicPod](https://github.com/ubuntu-flutter-community/musicpod) - Podcast / Radio Player
 * [HeadsetControl](https://github.com/Sapd/HeadsetControl) - Headset Settings Manager
 * [Pipewire](https://pipewire.org/) - Improved Video / Audio Handling / Multimedia API / [Effects](https://github.com/wwmm/easyeffects) / [TUI Audio Mixer](https://github.com/tsowell/wiremix)
@@ -297,10 +297,10 @@
 * ⭐ **[GE-Proton](https://github.com/GloriousEggroll/proton-ge-custom)** - Custom Proton Version / [Discord](https://discord.com/invite/6y3BdzC) 
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games / Requires Sign-Up
-* ⭐ **[johncena141](https://rentry.co/FMHYB64#johncena141)** - Linux Games / [Support](https://gitlab.com/jc141x/portal) / [Launcher](https://github.com/AbdelrhmanNile/UnderTaker141)
+* ⭐ **[johncena141](https://rentry.co/FreeForUsB64#johncena141)** - Linux Games / [Support](https://gitlab.com/jc141x/portal) / [Launcher](https://github.com/AbdelrhmanNile/UnderTaker141)
 * [CS.RIN.RU](https://cs.rin.ru/forum) - Linux Games / Sign-Up / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
-* [Native Linux Games](https://rentry.co/FMHYB64#native-linux-games) - Linux Games
+* [Native Linux Games](https://rentry.co/FreeForUsB64#native-linux-games) - Linux Games
 * [⁠GamingOnLinux](https://www.gamingonlinux.com/) - Linux Gaming News
 * [appnetica](https://appnetica.com/?platform=linux) - Linux Games
 * [LinUwUx](https://github.com/brcly/linuwux-runtime) - LD_PRELOAD Library for Hypervisor(-less) Denuvo Bypass
@@ -684,7 +684,7 @@
 
 * ↪️ **[Streaming Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_streaming_apps)** / **[Torrent Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_streaming_apps)**
 * ↪️ **[Media Servers / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_media_servers)**
-* ↪️ **[Editing Software](https://rentry.co/FMHYB64#quick-guide)**
+* ↪️ **[Editing Software](https://rentry.co/FreeForUsB64#quick-guide)**
 * [IINA](https://iina.io/) - Video Player / [GitHub](https://github.com/iina/iina)
 * [⁠Unwatched](https://apps.apple.com/app/unwatched-para-youtube/id6477287463) / [GitHub](https://github.com/fer0n/Unwatched) or [Yattee](https://github.com/yattee/yattee) - YouTube Players
 * [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling / [Discord](https://discord.com/invite/mRReVBMQtN)
@@ -696,7 +696,7 @@
 ## ▷ Mac Audio
 
 * ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** - Spotify Adblockers
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
 * [foobar2000](https://www.foobar2000.org/mac) or [VOX Mac Music Player](https://vox.rocks/mac-music-player) - Audio Players
 * [cliamp](https://www.cliamp.stream/) - TUI Audio Player / [GitHub](https://github.com/bjarneo/cliamp)
 * [Silicio](https://apps.apple.com/us/app/silicio-mini-player/id933627574) - Audio Mini Player
@@ -720,7 +720,7 @@
 ## ▷ Mac Image
 
 * ↪️ **[Mac Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_editing_software)**
-* ↪️ **[Editing Software](https://rentry.co/FMHYB64#quick-guide)**
+* ↪️ **[Editing Software](https://rentry.co/FreeForUsB64#quick-guide)**
 * [Gifski](https://sindresorhus.com/gifski) - Image to GIF Converter / [GitHub](https://github.com/sindresorhus/Gifski)
 * [ImageOptim](https://imageoptim.com/mac) - Image Optimization
 * [Perspec](https://github.com/ad-si/Perspec) - Correct Perspective of Images
@@ -761,8 +761,8 @@
 * ↪️ **[Mac 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ↪️ **[Adblocking Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy)**
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
-* ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [ESET](https://rentry.co/FMHYB64#eset), [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
-* [⁠uBO Lite Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/ubo-lite.md), [AdGuard Mini](https://adguard.com/en/adguard-safari/overview.html) / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) / [2](https://justpaste.it/adguard) or [wBlock](https://apps.apple.com/app/wblock/id6746388723) / [GitHub](https://github.com/0xCUB3/wBlock) - Safari Adblockers
+* ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [ESET](https://rentry.co/FreeForUsB64#eset), [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
+* [⁠uBO Lite Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698) / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/ubo-lite.md), [AdGuard Mini](https://adguard.com/en/adguard-safari/overview.html) / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) / [2](https://justpaste.it/adguard) or [wBlock](https://apps.apple.com/app/wblock/id6746388723) / [GitHub](https://github.com/0xCUB3/wBlock) - Safari Adblockers
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
 * [macOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [⁠ClashMac](https://github.com/666OS/ClashMac) - Proxy Client
@@ -801,7 +801,7 @@
 * 🌐 **[AppleDB](https://appledb.dev/)** - Apple Device / Software Info Database
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Directory
 * ⭐ **[⁠Vorssaint](https://vorssaint.com/)** - Menu Bar Toolkit / [GitHub](https://github.com/vorssaint/vorssaint-utils)
-* ⭐ **[Alfred](https://www.alfredapp.com/)**, [Raycast](https://www.raycast.com/) / [FMHY Search](https://www.raycast.com/akshit_mehta/fmhy-search), [Albert](https://albertlauncher.github.io/) / [GitHub](https://github.com/albertlauncher/albert), [Quicksilver](https://qsapp.com/), [KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) or [SOL](https://sol.ospfranco.com/) - Keystroke Launchers / Spotlight Replacements / [Alfred Workflows / Themes](https://www.packal.org/)
+* ⭐ **[Alfred](https://www.alfredapp.com/)**, [Raycast](https://www.raycast.com/) / [FreeForUs Search](https://www.raycast.com/akshit_mehta/FreeForUs-search), [Albert](https://albertlauncher.github.io/) / [GitHub](https://github.com/albertlauncher/albert), [Quicksilver](https://qsapp.com/), [KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) or [SOL](https://sol.ospfranco.com/) - Keystroke Launchers / Spotlight Replacements / [Alfred Workflows / Themes](https://www.packal.org/)
 * ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
 * [⁠Mac Terminal for Humans](https://www.macterminal.cc/commands) - macOS Terminal Cheat Sheet 
 * [MuMuPlayer](https://www.mumuplayer.com/), [NoxPlayer](https://www.bignox.com/) or [Genymotion](https://www.genymotion.com/download/) - Android on macOS

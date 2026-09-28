@@ -13,13 +13,13 @@
 ***
 
 * 🌐 **[Adobe Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)** - Adobe Software Alternative Index
-* ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** or [Keyflame](https://rentry.co/FMHYB64#keyflame) - Editing Software
+* ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** or [Keyflame](https://rentry.co/FreeForUsB64#keyflame) - Editing Software
 * ⭐ **[Virgil Software Search](https://virgil.samidy.com/?engine=software)**, [2](https://virgil-search.pages.dev/?engine=software) / [GitHub](https://github.com/SamidyFR/Virgil) or [Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4) - Multi-Site Software Search
 * ⭐ **[CracksURL](https://cracksurl.com/)** / [Download Guide](https://cracksurl.com/how-to-download/) / [Telegram](https://t.me/+Fu_l5ukw7wNkMDll), [2](https://t.me/+8zQaYybFs_wyMzhl)
 * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[Soft98](https://soft98.ir/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[Nsane Forums](https://www.nsaneforums.com/)** - Requires Sign-Up
-* ⭐ **[Mobilism](https://forum.mobilism.org/)** - Requires Sign-Up / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
+* ⭐ **[Mobilism](https://forum.mobilism.org/)** - Requires Sign-Up / [User Ranks](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** or [European Alternatives](https://european-alternatives.eu/) - Crowdsourced Recommendations
 * [DownloadHa](https://www.downloadha.com/) - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [Moum](https://moum.top/en/)
@@ -72,7 +72,7 @@
 * [Suckless](https://suckless.org/) - Minimalist Software Ecosystem
 * [VETUSWARE](https://vetusware.com/) - Abandonware / Operating Systems / Games
 * [OldVersion](https://www.oldversion.com/) - Old Versions of Software
-* [Vintage Software Collection](https://rentry.co/FMHYB64#the-vintage-software-collection) or [SCiZE's Classic Warez](https://scenelist.org/) - Retro Software
+* [Vintage Software Collection](https://rentry.co/FreeForUsB64#the-vintage-software-collection) or [SCiZE's Classic Warez](https://scenelist.org/) - Retro Software
 * [⁠Commodore Software](https://commodore.software/search/) - Commodore 64 / Commodore 128 / VIC-20 Software
 
 ***
@@ -129,7 +129,7 @@
 * [Katz DDL](https://katzddl.net/) - Audio / Books / NSFW
 * [TehParadox](https://www.tehparadox.net/) - Audio / Books / Magazines / ROMs
 * [downTURK](https://www.downturk.net/) - Audio / Books
-* [SoftArchive](https://softarchive.download/), [2](https://softarchive.is/), [3](https://sanet.lc/), [4](https://sanet.st/), [5](https://sanet.sb/), [6](https://soft.ac/), [7](https://sanet.ws/) - Audio / Books / Comics / Newspapers / Magazines / [Status](https://sastatus.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sanet-warning.md)
+* [SoftArchive](https://softarchive.download/), [2](https://softarchive.is/), [3](https://sanet.lc/), [4](https://sanet.st/), [5](https://sanet.sb/), [6](https://soft.ac/), [7](https://sanet.ws/) - Audio / Books / Comics / Newspapers / Magazines / [Status](https://sastatus.com/) / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/sanet-warning.md)
 
 ***
 
@@ -229,7 +229,7 @@
 * [iTeraPlay](https://iteraplay.com/), [⁠TeraBox Gen](https://terabox.hnn.workers.dev/), [TeraFetch](https://terafetch.com/) or [1024TeraDL](https://1024teradl.com/) - ⁠TeraBox Video Downloaders
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Quickly Send DDL Links to Premiumize & NoPremium
 * [Debrid Media Manager](https://debridmediamanager.com/), [⁠Debrid Vault](https://debridvault.elfhosted.com/) or [Debrid Vault + Eclipse](https://discord.gg/B3QKzPRjhM) - ⁠Debrid Managers / Cloud Managers
-* [Pixeldrain Limit Bypass](https://pixeldrain-bypass.gamedrive.to/), [2](https://pixeldrain-bypass.gamedrive.to/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pixeldrain.md)
+* [Pixeldrain Limit Bypass](https://pixeldrain-bypass.gamedrive.to/), [2](https://pixeldrain-bypass.gamedrive.to/) / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/pixeldrain.md)
 
 ***
 
@@ -239,7 +239,7 @@
 * 🌐 **[Awesome IRC](https://github.com/davisonio/awesome-irc)** - IRC Resources
 * 🌐 **[NetSplit](https://netsplit.de/)** - IRC Channel Index
 * 🌐 **[IRC Client Comparisons](https://wikipedia.org/wiki/Comparison_of_IRC_clients)**
-* [IRC Guide](https://rentry.org/ircfmhyguide), [Libera Guides](https://libera.chat/guides/), [New Blood](https://anonops.com/newblood/) or [Simple Wiki Guide](https://wikipedia.org/wiki/Wikipedia:IRC/Tutorial) - IRC Guides
+* [IRC Guide](https://rentry.org/ircFreeForUsguide), [Libera Guides](https://libera.chat/guides/), [New Blood](https://anonops.com/newblood/) or [Simple Wiki Guide](https://wikipedia.org/wiki/Wikipedia:IRC/Tutorial) - IRC Guides
 * [AdiIRC](https://adiirc.com/), [KVIrc](https://github.com/kvirc/KVIrc), or [Halloy](https://github.com/squidowl/halloy) - IRC Clients / Windows, macOS, Linux
 * [Konversation](https://konversation.kde.org/) - IRC Client / Windows, Linux / [GitHub](https://github.com/KDE/konversation)
 * [Convos](https://convos.chat/) / [GitHub](https://github.com/convos-chat/convos/) or [TheLounge](https://thelounge.chat/) / [GitHub](https://github.com/thelounge) - Self-hosted IRC Client / Web

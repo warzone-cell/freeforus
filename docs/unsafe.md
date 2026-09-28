@@ -1,4 +1,4 @@
-To easily see which sites are trusted, and which are unsafe, try the **[FMHY SafeGuard](https://github.com/fmhy/FMHY-SafeGuard)** extension, or simply add our **[Filterlist](https://github.com/fmhy/FMHYFilterlist)** to your adblocker.
+To easily see which sites are trusted, and which are unsafe, try the **[FreeForUs SafeGuard](https://github.com/FreeForUs/FreeForUs-SafeGuard)** extension, or simply add our **[Filterlist](https://github.com/FreeForUs/FreeForUsFilterlist)** to your adblocker.
 
 ***
 
@@ -54,7 +54,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * RSLOAD - Uploaded the same version of malwarebytes that got FileCR in trouble / [utorrent malware](https://i.ibb.co/QXrCfqQ/Untitled.png)
 * Pesktop - Caught with [malware](https://tria.ge/250116-nwnxfszkdq), sources content from [FileCR](https://ibb.co/1KjkKVR), [2](https://imgur.com/a/VS4w6ag), has filecr logo under theirs on some apps.
 * Appnee - Not very careful with uploads, has multiple [unsafe activators](https://i.imgur.com/ZwjYBfr.png) / [2](https://i.ibb.co/7jKVtSR/ZwjYBfr.png)
-* AppValley / TutuBox / Ignition - History of [DDoS attacks](https://github.com/fmhy/edit/pull/307)
+* AppValley / TutuBox / Ignition - History of [DDoS attacks](https://github.com/FreeForUs/edit/pull/307)
 * CNET / Download.com / ZDNET / Softonic - History of [adware](https://www.reddit.com/r/software/comments/9s7wyb/whats_the_deal_with_sites_like_cnet_softonic_and/e8mtye9/) / [2](https://ibb.co/tLc5KR7)
 * IObit - History of [Adware](https://www.malwarebytes.com/blog/detections/pup-iobit) and shady products
 
@@ -90,7 +90,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * Private Internet Access / ExpressVPN / ZenMate / CyberGhost - Owned by [adware distributor Kape](https://redd.it/q3lepv)
 * BlueKik / Bluecord (chat mods) - History of [spam](https://redd.it/12h2v6n) / [spying](https://i.imgur.com/cK9dqQ5.png), [2](https://i.ibb.co/TBzGzFYN/05Bb5eD.png)
 * Kik (messaging app) - App used by mostly [predators / scammers](https://youtu.be/9sPaJxRmIPc)
-* Flix Vision - Malicious app that [remotely enables TraffMonetizer](https://github.com/fmhy/edit/issues/2835)
+* Flix Vision - Malicious app that [remotely enables TraffMonetizer](https://github.com/FreeForUs/edit/issues/2835)
 * TLauncher (minecraft launcher) - [Shady](https://redd.it/zmzzrt) business practices / Note that TLauncher Legacy and ATLauncher are unrelated
 * GShade (ReShade mod) - Dev added code that can trigger unwanted [reboots](https://clarasguide.valeena.workers.dev/Announcements/gshade_notice/)
 * TotalAV / PC Protect / Protected - Antivirus Software [Scam](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect) / [2](https://youtu.be/PcS3EozgyhI)

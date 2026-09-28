@@ -11,7 +11,7 @@ hero:
     link: /posts/sept-2026
   image:
     src: test.png
-    alt: FMHY Icon
+    alt: FreeForUs Icon
   actions:
     - theme: brand
       text: See Beginners Guide
@@ -24,7 +24,7 @@ hero:
       link: /other/contributing
     - theme: alt
       text: Discord
-      link: https://github.com/fmhy/FMHY/wiki/FMHY-Discord
+      link: https://github.com/FreeForUs/FreeForUs/wiki/FreeForUs-Discord
 
 features:
   - title: Adblocking / Privacy

@@ -38,7 +38,7 @@
 * ↪️ **[Chat Clients / Discord Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_chat_tools)**
 * ⭐ **[embedez](https://embedez.com/)** / [X](https://x.com/embedez) / [Discord](https://discord.gg/FmW9c8gtCp) or [FxEmbed](https://github.com/FxEmbed/FxEmbed) - Social Link Embedders
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Nitro + Boost Ads
-* ⭐ **[OpenAsar](https://openasar.dev/)** - Better Performance with Improved `app.asar` / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/openasar.md)
+* ⭐ **[OpenAsar](https://openasar.dev/)** - Better Performance with Improved `app.asar` / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar) / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/openasar.md)
 * [⁠Nelly](https://nelly.tools/) - Discord Web Tools
 * [Discorch](https://discorch.org/) / [Source Code](https://codeberg.org/discorch/discorch), [Discrub](https://github.com/prathercc/discrub) or [Undiscord](https://github.com/victornpb/undiscord/) - Message Manipulation Tools / Always Delay 9+ Seconds
 * [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine / [GitHub](https://github.com/AnswerOverflow/AnswerOverflow)
@@ -78,7 +78,7 @@
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
 * [Dorion](https://spikehd.dev/projects/dorion/) - Discord Client Mod / [GitHub](https://github.com/SpikeHD/Dorion)
 * [⁠Concord](https://github.com/chojs23/concord) - Discord TUI
-* [Spacebar](https://github.com/spacebarchat/spacebarchat) - Self-Hosted / [Discord Compatible](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spacebar.md)
+* [Spacebar](https://github.com/spacebarchat/spacebarchat) - Self-Hosted / [Discord Compatible](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/spacebar.md)
 * [Dissent](https://github.com/diamondburned/dissent) - GTK4 Discord Client
 * [Discord Portable](https://portapps.io/app/discord-portable/) / [PTB PortApps](https://portapps.io/app/discord-ptb-portable/) - Portable Discord Stable
 
@@ -166,7 +166,7 @@
 * ⭐ **[Newsit](https://newsit.benwinding.com/)** - Webpage Comments Widget / [GitHub](https://github.com/benwinding/newsit)
 * [Redditp](https://redditp.com/) or [Reddit Viewer](https://reddit-viewer.com/) - Reddit TikTok Style Viewers
 * [Beleave](https://beleave.virock.org/) or [SubCleaner](https://www.subcleaner.com/) - Subreddit Cleaners / Managers
-* [Bookmarkeddit](https://bookmarkeddit.com/) - Saved Post Manager / Organizer / [GitHub](https://github.com/mateussilva98/bookmarkeddit) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/bookmarkeddit.md)
+* [Bookmarkeddit](https://bookmarkeddit.com/) - Saved Post Manager / Organizer / [GitHub](https://github.com/mateussilva98/bookmarkeddit) / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/bookmarkeddit.md)
 * [Reddit Sub Counter](https://greasyfork.org/en/scripts/567501) - Restore Subreddit Subscriber Counter
 * [Reddit Comber](https://redditcomber.com/) or [Sub Notification](https://redd.it/5mz9z5) - Reddit Keyword Notifications
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
@@ -331,7 +331,7 @@
 
 * ⭐ **[Return YouTube Dislike](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/) / [Discord](https://discord.com/invite/mYnESY4Md5)
 * ⭐ **[DeArrow](https://dearrow.ajay.app/)** - Reduce Sensationalism / Clickbait
-* ⭐ **[VORAPIS](https://vorapis.pages.dev/)** - Classic YouTube Layout / Increased Performance / [Extra Themes](https://github.com/lightbeam24/StarTube) / [Error Fix](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/vorapis.md) / [Discord](https://discord.com/invite/tBBZQMscag)
+* ⭐ **[VORAPIS](https://vorapis.pages.dev/)** - Classic YouTube Layout / Increased Performance / [Extra Themes](https://github.com/lightbeam24/StarTube) / [Error Fix](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/vorapis.md) / [Discord](https://discord.com/invite/tBBZQMscag)
 * [ImprovedTube](https://improvedtube.com/), [YouTube Alchemy](https://greasyfork.org/en/scripts/521686), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/), [Magic Actions](https://www.chromeactions.com/), [⁠Control Panel for YouTube](https://soitis.dev/control-panel-for-youtube) / [GitHub](https://github.com/insin/control-panel-for-youtube), [YouTube Tweaks](https://addons.mozilla.org/en-US/firefox/addon/youtube-tweaks/) / [Chrome](https://chrome.google.com/webstore/detail/youtube-tweaks/oeakphpfoaeggagmgphfejmfjbhjfhhh) or [Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube) - YouTube Enhancement Extensions
 * [TubeMod](https://github.com/Pedro-Gregorio/TubeMod) or [Less Addictive YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) - Distraction-Free YouTube
 * [PKGA](https://greasyfork.org/en/scripts/442089) or [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Theater Mode
@@ -475,7 +475,7 @@
 
 * 🌐 **[Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f)** - Twitch Extensions Index
 * ⭐ **[FrankerFacez](https://www.frankerfacez.com/)**, [BetterTTV](https://betterttv.com/) or [7TV](https://7tv.app/) - Twitch Enhancement Extensions
-* ⭐ **[TwitchNoSub](https://github.com/besuper/TwitchNoSub)** / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/twitchnosub.md), [Sub-Vod](https://www.sub-vod.fr/) or [twitchnosub](https://twitchnosub.com/) - Watch Sub Only Twitch Videos
+* ⭐ **[TwitchNoSub](https://github.com/besuper/TwitchNoSub)** / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/twitchnosub.md), [Sub-Vod](https://www.sub-vod.fr/) or [twitchnosub](https://twitchnosub.com/) - Watch Sub Only Twitch Videos
 * ⭐ **[Stream Scheme](https://www.streamscheme.com/)** - Livestreaming Guides / Resources
 * [⁠Twitch Gearbox](https://gearbox.crunchprank.net/twitch/filter.php) - Twitch Advanced Search 
 * [Gumbo](https://github.com/seldszar/gumbo) or [Twitch-Live](https://github.com/yungsamd17/Twitch-Live) - Twitch Stream Trackers

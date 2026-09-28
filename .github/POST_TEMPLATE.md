@@ -11,7 +11,7 @@ Notes:
 - The description should be a short, descriptive description of the post.
 - Authors should be in the format `['username', ....]`
 - The ending shouldn't have a line break (`---`/`***`).
-- Links to the website should be turned into relative links, i.e. `[Text Tools](https://fmhy.net/text-tools)` -> `[Text Tools](/text-tools)`.
+- Links to the website should be turned into relative links, i.e. `[Text Tools](https://FreeForUs.net/text-tools)` -> `[Text Tools](/text-tools)`.
 
 Template:
 ```
@@ -31,7 +31,7 @@ footer: true
 :::info
 These update threads only contains major updates. If you're interested
 in seeing all minor changes you can follow our
-[Commits Page](https://github.com/fmhy/edit/commits/main) on GitHub or
+[Commits Page](https://github.com/FreeForUs/edit/commits/main) on GitHub or
 [Updates Channel](https://redd.it/17f8msf) in Discord.
 :::
 

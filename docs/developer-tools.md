@@ -272,7 +272,7 @@
 ## ▷ API Tools
 
 * 🌐 **[Public APIs](https://github.com/public-apis/public-apis)**, [API List](https://apilist.fun/), [Public APIs](https://publicapis.dev/), [APIsList](https://apislist.com/), [APIs Guru](https://apis.guru/), [FreePublicAPIs](https://www.freepublicapis.com/), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [⁠PublicAPIs](https://publicapis.io/) - API Indexes
-* 🌐 **[Streaming Site APIs](https://rentry.co/FMHYB64#streaming-apis)**
+* 🌐 **[Streaming Site APIs](https://rentry.co/FreeForUsB64#streaming-apis)**
 * 🌐 **[Manga APIs](https://rentry.co/manga-apis)** - Manga Site APIs
 * 🌐 **[Dev Scraping APIs](https://github.com/cporter202/scraping-apis-for-devs)** - ⁠Scraping APIs for Developers
 * 🌐 **[⁠awesome-transit](https://github.com/MobilityData/awesome-transit)** - Transit Focused APIs
@@ -381,7 +381,7 @@
 * ↪️ **[Text Editors / Notes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25BA_text_editors)**
 * ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor / [Tools / Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_vscode_tools)
 * ⭐ **[zed](https://zed.dev/)** - Code Editor / [Themes](https://zed-themes.com/) / [GitHub](https://github.com/zed-industries/zed) / Windows, macOS, Linux
-* ⭐ **[JetBrains](https://jetbrains.com/)** - Professional IDEs / [Features](https://rentry.co/FMHYB64#jbrains) (occasional downtime) / Windows, macOS, Linux
+* ⭐ **[JetBrains](https://jetbrains.com/)** - Professional IDEs / [Features](https://rentry.co/FreeForUsB64#jbrains) (occasional downtime) / Windows, macOS, Linux
 * ⭐ **[Neovim](https://neovim.io/)** - Code Editor / [Matrix](https://matrix.to/#/#neovim:matrix.org) / Windows, macOS, Linux
 * ⭐ **[Lite XL](https://lite-xl.com/)** or [Pragtical](https://pragtical.dev/) - Code Editor / [Plugin Manager](https://github.com/lite-xl/lite-xl-plugin-manager) / [Plugins](https://github.com/lite-xl/lite-xl-plugins) / [Themes](https://github.com/lite-xl/lite-xl-colors) / Windows, macOS, Linux
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - Code Editor / [Resources](https://github.com/emacs-tw/awesome-emacs) / Windows, macOS, Linux, Android
@@ -531,7 +531,7 @@
 * ⭐ **[Aider](https://aider.chat/)** - Terminal Coding Agent / [Discord](https://discord.com/invite/Y7X7bhMQFV) / [GitHub](https://github.com/Aider-AI/aider)
 * [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) or [⁠Zoo Code](https://github.com/Zoo-Code-Org/Zoo-Code/) / [Subreddit](https://www.reddit.com/r/ZooCode/) - Autonomous VS Code Agents
 * [OpenHands](https://www.openhands.dev/) - Coding AI / [GitHub](https://github.com/All-Hands-AI/OpenHands)
-* [Cursor](https://rentry.co/FMHYB64#cursor) - Coding AI
+* [Cursor](https://rentry.co/FreeForUsB64#cursor) - Coding AI
 * [GitWit](https://gitwit.dev/) - Coding AI
 * [⁠DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) - Coding AI
 * [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Claude Opus 4.6 / Limits Reset Weekly / [VSCode Marketplace](https://gist.github.com/tejainece/85408c51ff5e3555ebc4b5b4417a9b6b) / [Add Skills](https://github.com/sickn33/antigravity-awesome-skills) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
@@ -577,7 +577,7 @@
 
 * 🌐 **[⁠Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools)** - Index of AI Dev Tools
 * 🌐 **[Skills](https://skills.sh/)** or **[⁠an-eye](https://rentry.co/an-eye)** - AI Agent Skill Indexes
-* ⭐ **[⁠CodeRabbit](https://www.coderabbit.ai/)** / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/CodeRabbit.md) or [PR-Agent](https://github.com/qodo-ai/pr-agent) - Pull Request Reviews / Feedback 
+* ⭐ **[⁠CodeRabbit](https://www.coderabbit.ai/)** / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/CodeRabbit.md) or [PR-Agent](https://github.com/qodo-ai/pr-agent) - Pull Request Reviews / Feedback 
 * [Honey](https://github.com/Green-PT/honey-for-devs) or [⁠Ponytail](https://ponytail.dev/) - Make AI Coding Agents More Efficient / Save Tokens / [GitHub](https://github.com/DietrichGebert/ponytail)
 * [⁠9Router](https://github.com/decolua/9router) - Local AI Model Proxy & Token Saver
 * [CC Switch](https://ccswitch.io/en/) - AI Coding Agent Manager / [GitHub](https://github.com/farion1231/cc-switch)
@@ -897,7 +897,7 @@
 * [CodeMyUI](https://codemyui.com/) or [Fomantic-UI](https://fomantic-ui.com/) - User Interface Code Snippets
 * [Icon Shelf](https://icon-shelf.github.io/) - Icon Manager
 * [Favicon Maker](https://formito.com/tools/favicon) or [Favicon Generator](https://www.favicon-generator.org/) - Create Favicons
-* [Icon Horse](https://icon.horse/) or [Favicone](https://upset.dev/favicone) - Download a Site's Favicon / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/site-favicon-dl.md)
+* [Icon Horse](https://icon.horse/) or [Favicone](https://upset.dev/favicone) - Download a Site's Favicon / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/site-favicon-dl.md)
 * [Meta-Mapper](https://meta-mapper.com/) - Website Metadata Thumbnails
 * [Scrollbar.app](https://scrollbar.app/) - Design Custom Scrollbars
 * [Emanote](https://emanote.srid.ca/) - Create Sites from Plain-Text Notes / [GitHub](https://github.com/srid/emanote)
@@ -1007,10 +1007,10 @@
 * 🌐 **[FreeHosts](https://freehosts.eu/)** or **[Awesome-Web-Hosting](https://nuhmanpk.github.io/Awesome-Web-Hosting/)** / [GitHub](https://github.com/nuhmanpk/Awesome-Web-Hosting) - Free Hosting Provider Indexes
 * 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resource Index
 * 🌐 **[VPS Comparison Chart](https://vpsfilter.com/)**, [VPS Rentals](https://vps.rentals/), [⁠servers.fyi](https://www.servers.fyi/), [⁠VPS Price Tracker](https://vpspricetracker.com/) or [Bitcoin VPS](https://bitcoin-vps.com/) - VPS Comparisons
-* ⭐ **[TLDES](https://tldes.com/)**, [TLD-List](https://tld-list.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tld-list-note.md) or [SitePrice](https://www.siteprice.org/) - Domain Price Comparisons
+* ⭐ **[TLDES](https://tldes.com/)**, [TLD-List](https://tld-list.com/) / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/tld-list-note.md) or [SitePrice](https://www.siteprice.org/) - Domain Price Comparisons
 * ⭐ **[censys](https://search.censys.io/)**, [WebDNA](https://webdna.xtra.wtf/), [⁠ICANN Lookup](https://lookup.icann.org/), [wtfis](https://github.com/pirxthepilot/wtfis), [whois_](https://whois.b1s4.xyz/) / [GitHub](https://github.com/b1s4/whois), [RDAP](https://client.rdap.org/), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/) or [DNSlytics](https://dnslytics.com/) - Domain Info Tools
 * ⭐ **[Check-Host](https://check-host.net/)** or [Uptime](https://betterstack.com/uptime) - Web-Based Uptime Monitors
-* [Secure Backend Guide](https://rentry.co/FMHYB64#backend-guide) - Secure Backend Guide
+* [Secure Backend Guide](https://rentry.co/FreeForUsB64#backend-guide) - Secure Backend Guide
 * [Oracle Cloud](https://www.oracle.com/cloud/free/) - Free VPS / Requires Real Information / [Guide (Important)](https://guides.viren070.me/selfhosting/oracle)
 * [InstantDomain](https://instantdomainsearch.com/), [DomainTyper](https://domaintyper.com/), [⁠Micro Domains](https://micro.domains/), [IWantMyName](https://iwantmyname.com/), [Whois](https://www.whois.com/), [Domainr](https://domainr.com) or [Atlaq](https://atlaq.com) - Domains
 * [Pyfunceble](https://pyfunceble.github.io/#/) - Domain Availability App / [GitHub](https://github.com/funilrys/PyFunceble)
@@ -1101,8 +1101,8 @@
 * ⭐ **[surge](https://surge.sh/)** - Unlimited / Unlimited / [X](https://x.com/surge_sh) / [GitHub](http://github.com/sintaxi/surge)
 * ⭐ **[GitHub Pages](https://docs.github.com/en/pages)** - 1GB (100MB per File) / 100GB
 * ⭐ **[Sourcehut Pages](https://srht.site/)** - 1GB / Unlimited
-* ⭐ **[Neocities](https://neocities.org/)** - 1GB / 200GB / No Custom Domain / [Resources](https://rentryresource.neocities.org/) / [Free Tier Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/neocities.md)
-* ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB, 5K Files / Unlimited / [Bandwidth Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/nekoweb.md)
+* ⭐ **[Neocities](https://neocities.org/)** - 1GB / 200GB / No Custom Domain / [Resources](https://rentryresource.neocities.org/) / [Free Tier Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/neocities.md)
+* ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB, 5K Files / Unlimited / [Bandwidth Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/nekoweb.md)
 * [Web 1.0 Hosting](https://web1.0hosting.net/) - 100MB / Unlimited
 * [⁠pages.gay](https://pages.gay/) - Unspecified / Unspecified
 * [⁠AppWrite](https://appwrite.io/) - 2GB Stage / 5GB / [Discord](https://discord.com/invite/appwrite)

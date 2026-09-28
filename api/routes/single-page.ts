@@ -43,7 +43,7 @@ const files = (
   ] as const
 ).map((file) => ({
   name: file,
-  url: `https://raw.githubusercontent.com/fmhy/edit/main/docs/${file}`
+  url: `https://raw.githubusercontent.com/FreeForUs/edit/main/docs/${file}`
 }))
 
 const FETCH_TIMEOUT = 10_000 // 10 seconds

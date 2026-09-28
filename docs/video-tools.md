@@ -75,7 +75,7 @@
 ## ▷ Screen Recording
 
 * ⭐ **[OBS Studio](https://obsproject.com/)** / Windows, macOS, Linux / [Discord](https://discord.com/invite/obsproject) / [GitHub](https://github.com/obsproject/obs-studio)
-* [SteelSeries Moments](https://steelseries.com/gg/moments), [⁠Ascent](https://www.tryascent.gg/), [Medal](https://medal.tv/) / [Watermark Remover](https://rentry.co/FMHYB64#medal), [Segra](https://segra.tv/) / [GitHub](https://github.com/Segergren/Segra) or [RePlays](https://github.com/lulzsun/RePlays) - Game Recording Tools
+* [SteelSeries Moments](https://steelseries.com/gg/moments), [⁠Ascent](https://www.tryascent.gg/), [Medal](https://medal.tv/) / [Watermark Remover](https://rentry.co/FreeForUsB64#medal), [Segra](https://segra.tv/) / [GitHub](https://github.com/Segergren/Segra) or [RePlays](https://github.com/lulzsun/RePlays) - Game Recording Tools
 * [Shinobi](https://shinobi.video/) - Network Video Recorder / macOS, Linux / [Discord](https://discord.com/invite/mdhmvuH) / [GitLab](https://gitlab.com/Shinobi-Systems/Shinobi)
 * [MythTV](https://www.mythtv.org/) - Digital Video Recorder (DVR) / Windows, macOS, Linux / [GitHub](https://github.com/MythTV/mythtv)
 * [FFmpeg](https://ffmpeg.org/) / Windows, macOS, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
@@ -205,7 +205,7 @@
 * 🌐 **[Video Help](https://www.videohelp.com/software/sections/video-players?orderby=Rating)** - Video Player Index
 * 🌐 **[MPV Clients](https://mpv.rocks/)** - MPV Based Client Index
 * ⭐ **[MPV](https://mpv.io/)** - Video Player / [Improved UI](https://github.com/tomasklaen/uosc) / [Custom Builder](https://mpv-easy.github.io/mpv-build/) / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [GitHub](https://github.com/mpv-player/mpv)
-* ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc/)** or [MPC-BE](https://sourceforge.net/projects/mpcbe/) / [GitHub](https://github.com/Aleksoid1978/MPC-BE) - Video Player / [YT-DL Support](https://www.free-codecs.com/guides/how_to_stream_videos_with_mpc-hc.htm) / [OpenSubtitles Bypass](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mp-opensubs.md)
+* ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc/)** or [MPC-BE](https://sourceforge.net/projects/mpcbe/) / [GitHub](https://github.com/Aleksoid1978/MPC-BE) - Video Player / [YT-DL Support](https://www.free-codecs.com/guides/how_to_stream_videos_with_mpc-hc.htm) / [OpenSubtitles Bypass](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/mp-opensubs.md)
 * ⭐ **[MPC-QT](https://mpc-qt.github.io/)** - Video Player / MPC UI w/ MPV Internal Player / Easy Setup / [GitHub](https://github.com/mpc-qt/mpc-qt)
 * ⭐ **[VLC](https://nightlies.videolan.org/)**, [2](https://www.videolan.org/) - Video Player / Use Nightly for Correct Colors / [GitHub](https://github.com/videolan/vlc)
 * ⭐ **[FastStream](https://faststream.online/)** - Fragmentation Streaming Extension / [Firefox Note](https://github.com/Andrews54757/FastStream?tab=readme-ov-file#notice-for-firefox-extension-store-users) / [GitHub](https://github.com/Andrews54757/FastStream/)
@@ -325,7 +325,7 @@
 ## ▷ Plex Tools
 
 * [Reddit Guide](https://redd.it/ma1hlm) - Plex Setup Guides
-* [Tautulli](https://tautulli.com/) - Server Monitor / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tautulli-note.md)
+* [Tautulli](https://tautulli.com/) - Server Monitor / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/tautulli-note.md)
 * [Kitana](https://github.com/pannal/Kitana) - Plugin Frontend
 * [Reaparr](https://www.reaparr.rocks/) - Merge Plex Libraries w/ Your Own / [Docs](https://github.com/Reaparr/Docs) / [Discord](https://discord.com/invite/k2KvDJbnNm) / [GitHub](https://github.com/Reaparr/Reaparr)
 * [PlexDrive](https://github.com/plexdrive/plexdrive) - Mount Google Drive
@@ -375,7 +375,7 @@
 * ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online / [Instances](https://cobalt.directory/) / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
 * ⭐ **[⁠lostnode](https://dl.lostnode.lol/)** - Multi-Site / Online
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.site/), [3](https://9xbuddy.in/) - Multi-Site / Online
-* [Video Download Helper](https://www.downloadhelper.net/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/video-downloadhelper.md), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
+* [Video Download Helper](https://www.downloadhelper.net/) / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/video-downloadhelper.md), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
 * [⁠VideoDL](https://github.com/CharlesPikachu/videodl) - Multi-Site / Windows, macOS, Linux
 * [VRKA](https://github.com/MaverickRox/VRKA) - Multi-Site / Windows, macOS, Linux
 * [NeoDLP](https://neodlp.neosubhamoy.com/) - Multi-Site / Windows, macOS, Linux / [GitHub](https://github.com/neosubhamoy/neodlp)
@@ -395,7 +395,7 @@
 * [iTeraPlay](https://iteraplay.com/) or [1024TeraDL](https://1024teradl.com/) - ⁠TeraBox
 * [hls-downloader](https://github.com/puemos/hls-downloader), [⁠cat-catch](https://github.com/xifangczy/cat-catch/blob/master/README_en.md), [hls extension](https://webextension.org/listing/hls-downloader.html) or [hlsloader](https://www.hlsloader.com/) - HLS Downloaders
 * [GetWVKeys](https://getwvkeys.cc/) - Send Widevine Requests / [GitHub](https://github.com/GetWVKeys/)
-* [DRM Bypass Toolkit](https://rentry.co/FMHYB64#dbt) - DRM Bypass Guide
+* [DRM Bypass Toolkit](https://rentry.co/FreeForUsB64#dbt) - DRM Bypass Guide
 
 ***
 
@@ -403,7 +403,7 @@
 
 * ⭐ **[r/VideoEditing](https://www.reddit.com/r/VideoEditing/)** - Video Editing Subreddit / [Wiki](https://www.reddit.com/r/VideoEditing/wiki/index/)
 * ⭐ **[Eyecandy](https://eyecannndy.com/)** - Visual Technique Examples / [Discord](https://discord.com/invite/WRyrPkWEzT)
-* ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [⁠TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter), [Video2x](https://github.com/k4yt3x/video2x), [Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio), [Lossless Scaling](https://fmhy.net/gaming#download-games) (search) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscaling
+* ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [⁠TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter), [Video2x](https://github.com/k4yt3x/video2x), [Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio), [Lossless Scaling](https://FreeForUs.net/gaming#download-games) (search) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscaling
 * [Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers) - Info on Codecs & Containers
 * [VideoHelp Forum](https://forum.videohelp.com/forums/2-Video) - Video Editing Forums
 
@@ -417,7 +417,7 @@
 * ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Single Video Editor / Windows, macOS, Linux
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / Windows, macOS, Linux / [GitHub](https://github.com/mltframework/shotcut)
 * [OpenShot](https://www.openshot.org/) - Video Editor / Windows, macOS, Linux / [Source Code](https://code.launchpad.net/openshot)
-* [Keyflame](https://rentry.co/FMHYB64#keyflame) - Video Editors / Plugins
+* [Keyflame](https://rentry.co/FreeForUsB64#keyflame) - Video Editors / Plugins
 * [VSDC](https://www.videosoftdev.com/) - Video Editor / Windows, macOS
 * [Blender](https://www.blender.org/) - Video Editor / Windows, macOS, Linux / [Forums](https://blenderartists.org/) / [Source Code](https://projects.blender.org/blender/blender)
 * [Auto-Editor](https://auto-editor.com/) - CLI Editor
@@ -481,7 +481,7 @@
 * [FreeVideoEffect](https://freevideoeffect.com/)
 * [VideoCoPilot](https://www.videocopilot.net/products/ae22/)
 * [VFXmed](https://www.vfxmed.com/)
-* [Team V.R Releases](https://rentry.co/FMHYB64#team-vr)
+* [Team V.R Releases](https://rentry.co/FreeForUsB64#team-vr)
 * [flex_cg_vfx](https://t.me/flex_cg_vfx)
 * [Download Pirate](https://www.downloadpirate.com/) - **Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)** / [Discord](https://discord.gg/ucTvVtBz9Z)
 * [Ae Blender](https://www.aeblender.com/)
@@ -490,7 +490,7 @@
 * [AETemp](https://t.me/AETemp)
 * [Visual Effects Pack](https://t.me/visual_effects_pack)
 * [AEDownloadPro](https://aedownloadpro.com/)
-* [Intro HD](https://intro-hd.net/) / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/introhd-warning.md)**
+* [Intro HD](https://intro-hd.net/) / **[Warning](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/introhd-warning.md)**
 
 ***
 

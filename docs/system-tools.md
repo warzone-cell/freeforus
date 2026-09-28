@@ -40,16 +40,16 @@
 
 ## ▷ System Tweaks
 
-* ⭐ **[Windhawk](https://windhawk.net/)** / [Discord](https://discord.com/invite/windhawk-923944342991818753) / [GitHub](https://github.com/ramensoftware/windhawk), [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html) or [Winaero](https://winaero.com/) / [2](https://winaerotweaker.com/) - System Tweaking Tools / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)**
-* ⭐ **[StartAllBack](https://www.startallback.com/)** - Tweaked Start Menu & Taskbar / Windows 11 / [Fix](https://rentry.co/FMHYB64#startxback)
+* ⭐ **[Windhawk](https://windhawk.net/)** / [Discord](https://discord.com/invite/windhawk-923944342991818753) / [GitHub](https://github.com/ramensoftware/windhawk), [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html) or [Winaero](https://winaero.com/) / [2](https://winaerotweaker.com/) - System Tweaking Tools / **[Warning](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)**
+* ⭐ **[StartAllBack](https://www.startallback.com/)** - Tweaked Start Menu & Taskbar / Windows 11 / [Fix](https://rentry.co/FreeForUsB64#startxback)
 * ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** - Everything Search in Taskbar
-* ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** or [StartIsBack](https://startisback.com/) / [Fix](https://rentry.co/FMHYB64#startxback) - Classic Start Menus
+* ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** or [StartIsBack](https://startisback.com/) / [Fix](https://rentry.co/FreeForUsB64#startxback) - Classic Start Menus
 * ⭐ **[EarTrumpet](https://eartrumpet.app/)** / [GitHub](https://github.com/File-New-Project/EarTrumpet), [BetterTrumpet](https://bettertrumpet.com/) / [Subreddit](https://www.reddit.com/r/Bettertrumpet/) / [GitHub](https://github.com/xammen/BetterTrumpet) or [Volume2](https://github.com/irzyxa/Volume2) - Tweaked Volume Mixer
 * ⭐ **[AltSnap](https://github.com/RamonUnch/AltSnap)** - Tweaked Windows Dragging
 * ⭐ **[Edge-Uninstall](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)** - Microsoft Edge Removal Script
 * [BatUtil](https://github.com/abbodi1406/BatUtil) / [2](https://gitlab.com/stdout12/batutil) / [3](https://codeberg.org/stdout12/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
 * [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - System App Tweaking
-* [Wox](https://github.com/Wox-launcher/Wox), [Listary](https://www.listary.com/), [Raycast](https://www.raycast.com/) / [FMHY Search](https://www.raycast.com/akshit_mehta/fmhy-search), [Flow Launcher](https://www.flowlauncher.com/) / [FMHY Search](https://github.com/iamshamit/fmhy-search-flow-launcher), [Asyar](https://asyar.org/) / [GitHub](https://github.com/Xoshbin/asyar), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke / App Launchers
+* [Wox](https://github.com/Wox-launcher/Wox), [Listary](https://www.listary.com/), [Raycast](https://www.raycast.com/) / [FreeForUs Search](https://www.raycast.com/akshit_mehta/FreeForUs-search), [Flow Launcher](https://www.flowlauncher.com/) / [FreeForUs Search](https://github.com/iamshamit/FreeForUs-search-flow-launcher), [Asyar](https://asyar.org/) / [GitHub](https://github.com/Xoshbin/asyar), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke / App Launchers
 * [Kando](https://kando.menu/) - App Launcher / Pie Menu / [Discord](https://discord.gg/hZwbVSDkhy) / [GitHub](https://github.com/kando-menu/kando)
 * [Cerebro App](https://cerebroapp.com/) - Tweaked System Navigation / [GitHub](https://github.com/cerebroapp/cerebro)
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Tweaked System Menu
@@ -126,7 +126,7 @@
 
 ## ▷ Remote Desktop
 
-* ⭐ **[Parsec](https://parsec.app/)** / Windows, macOS, Linux, Android, Web / [X](https://x.com/parsecteam) / [Discord](https://discord.com/invite/cQjEGFy) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/parsec.md)
+* ⭐ **[Parsec](https://parsec.app/)** / Windows, macOS, Linux, Android, Web / [X](https://x.com/parsecteam) / [Discord](https://discord.com/invite/cQjEGFy) / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/parsec.md)
 * ⭐ **[RustDesk](https://rustdesk.com/)** / Windows, macOS, Linux / [Subreddit](https://www.reddit.com/r/rustdesk/) / [Discord](https://discord.com/invite/nDceKgxnkV) / [GitHub](https://github.com/rustdesk/rustdesk)
 * ⭐ **[Aspia](https://aspia.org/)** / Windows, macOS, Linux / [Telegram](https://t.me/aspia_talks) / [GitHub](https://github.com/dchapyshev/aspia)
 * ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** or [Apollo](https://github.com/ClassicOldSong/Apollo) - Remote Server for Moonlight / Windows, macOS, Linux / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
@@ -136,7 +136,7 @@
 * [CoScreen](https://www.coscreen.co/) / Windows, macOS
 * [p2p.kiwi](https://p2p.kiwi/) / Windows, macOS, Linux / [GitHub](https://github.com/dont-be-evil-company/p2p.kiwi)
 * [⁠DWS](https://www.dwservice.net/) / Windows, macOS, Linux
-* [Remote Desktop Connection](https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c) - Built Into Windows / Windows / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/rdc.md)
+* [Remote Desktop Connection](https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c) - Built Into Windows / Windows / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/rdc.md)
 * [Remotly](https://remotly.com/) / Windows, Linux
 * [ChromeRemoteDesktop](https://remotedesktop.google.com/) - Browser
 * [InputDirector](https://www.inputdirector.com/) - Multi-Computer Client / Windows
@@ -179,7 +179,7 @@
 * 🌐 **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** or [Simone's Computer](https://simone.computer/#/webdesktops) - Browser Operating Systems / VMs
 * 🌐 **[Virtual OS Museum](https://virtualosmuseum.org/)** - Multi Virtual Machine Compilation (1700+)
 * ↪️ **[Emulators on Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_emulators_on_android)**
-* ⭐ **[VMware Workstation](https://www.techpowerup.com/download/vmware-workstation-pro/)** - Virtual Machine / [macOS VM](https://rentry.co/FMHYB64#vmware-workstation)
+* ⭐ **[VMware Workstation](https://www.techpowerup.com/download/vmware-workstation-pro/)** - Virtual Machine / [macOS VM](https://rentry.co/FreeForUsB64#vmware-workstation)
 * ⭐ **[QEMU](https://www.qemu.org/)** - Virtual Machine / Use w/ Virt-Manager or Vagrantup / [Docker Container](https://github.com/qemus/qemu) / [GitLab](https://gitlab.com/qemu-project/qemu)
 * ⭐ **[VirtualBox](https://www.virtualbox.org/)** - Virtual Machine / [GitHub](https://github.com/VirtualBox/virtualbox)
 * ⭐ **[Virt-Manager](https://virt-manager.org/)** / [GitHub](https://github.com/virt-manager/virt-manager), [Dexpot](https://www.dexpot.de/) or [Vagrantup](https://developer.hashicorp.com/vagrant) / [GitHub](https://github.com/hashicorp/vagrant) - Virtual Machine Managers
@@ -225,7 +225,7 @@
 * [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
 * [⁠SilverBench](https://silver.urih.com/) - In-Browser CPU Stress Test
 * [MemTest](https://www.memtest.org/) or [⁠RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) - Memory Diagnostic Tools / Usage Trackers
-* [SDIO](https://glenn.delahoy.com/snappy-driver-installer-origin), [Drivers Collection](https://driverscollection.com/), [Driverscape](https://www.driverscape.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Update / Install Missing Drivers / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/driver-note.md)
+* [SDIO](https://glenn.delahoy.com/snappy-driver-installer-origin), [Drivers Collection](https://driverscollection.com/), [Driverscape](https://www.driverscape.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Update / Install Missing Drivers / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/driver-note.md)
 * [VOGONS Drivers](https://vogonsdrivers.com/) - Vintage Computer Hardware Forum / [Forums](https://www.vogons.org/)
 * [⁠PCI Lookup](https://pcilookup.com/) - PCI Vendor ID Lookup
 
@@ -271,7 +271,7 @@
 * ⭐ **[Validrive](https://www.grc.com/validrive.htm)** - Check True Storage Size of USB Devices
 * [TrueNAS](https://www.truenas.com/) - Storage System
 * [QDirStat](https://github.com/shundhammer/qdirstat) - Directory Statistics
-* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/crystaldiskinfo.md), [Scrutiny](https://github.com/AnalogJ/scrutiny), [GSmartControl](https://gsmartcontrol.shaduri.dev/) / [GitHub](https://github.com/ashaduri/gsmartcontrol) or [smartmontools](https://www.smartmontools.org/) - Drive Diagnostics
+* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) / [Warning](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/crystaldiskinfo.md), [Scrutiny](https://github.com/AnalogJ/scrutiny), [GSmartControl](https://gsmartcontrol.shaduri.dev/) / [GitHub](https://github.com/ashaduri/gsmartcontrol) or [smartmontools](https://www.smartmontools.org/) - Drive Diagnostics
 * [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html) - Disk Usage Analyzer
 * [Diskovery](https://diskovery.io/) - Disk Usage Analyzer
 * [Gdu](https://github.com/dundee/gdu) or [dua](https://lib.rs/crates/dua-cli) - Disk Usage Analyzer with Parallel Processing
@@ -346,7 +346,7 @@
 ## ▷ System Audio
 
 * ↪️ **[Audio Equipment Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_audio_equipment)**
-* ⭐ **[Equalizer APO](https://sourceforge.net/projects/equalizerapo/)**, [2](https://equalizerapo.com/) / [GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/) / [7.1 Surround](https://hesuvi.net/) / [Dolby Access](https://apps.microsoft.com/detail/9n0866fs04w8) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/dolby-access-atmos-note.md) or [FXSound](https://www.fxsound.com/) - Audio Equalizers
+* ⭐ **[Equalizer APO](https://sourceforge.net/projects/equalizerapo/)**, [2](https://equalizerapo.com/) / [GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/) / [7.1 Surround](https://hesuvi.net/) / [Dolby Access](https://apps.microsoft.com/detail/9n0866fs04w8) / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/dolby-access-atmos-note.md) or [FXSound](https://www.fxsound.com/) - Audio Equalizers
 * ⭐ **[VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm)** - Audio Mixers / Multi-Device Playback / [Banana](https://vb-audio.com/Voicemeeter/banana.htm)
 * ⭐ **[AutoEQ](https://autoeq.app/)** or [⁠PEQdB](https://peqdb.com/) - Create Custom Equalizer Presets / [Discord](https://discord.gg/B7e8cM76PM)
 * ⭐ **[AudioRelay](https://audiorelay.net/)** / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [SnapCast](https://github.com/badaix/snapcast) or [SonoBus](https://sonobus.net/) - Sync Audio Input/Output between Devices
@@ -392,9 +392,9 @@
 
 ## ▷ Windows Activation
 
-* ⭐ **[MAS](https://rentry.co/FMHYB64#mas)** - Windows & Office Activation / [Subreddit](https://www.reddit.com/r/MAS_Activator) / [X](https://x.com/massgravel) / [Discord](https://discord.gg/4mFR9y9Snw), [2](https://discord.gg/j2yFsV5ZVC) / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts)
-* [Office Tool Plus](https://rentry.co/FMHYB64#tool-plus) - Office Activation / Version Manager / Deployment / Offline
-* [OfficeRTool](https://rentry.co/FMHYB64#officertool-project) - Office Activation / Offline
+* ⭐ **[MAS](https://rentry.co/FreeForUsB64#mas)** - Windows & Office Activation / [Subreddit](https://www.reddit.com/r/MAS_Activator) / [X](https://x.com/massgravel) / [Discord](https://discord.gg/4mFR9y9Snw), [2](https://discord.gg/j2yFsV5ZVC) / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts)
+* [Office Tool Plus](https://rentry.co/FreeForUsB64#tool-plus) - Office Activation / Version Manager / Deployment / Offline
+* [OfficeRTool](https://rentry.co/FreeForUsB64#officertool-project) - Office Activation / Offline
 
 ***
 

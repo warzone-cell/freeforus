@@ -47,7 +47,7 @@
 * [⁠ISH](https://ish.chat/) - Claude Opus 5 / GPT-5.6 Sol / Kimi K3 / 50K Tokens Daily / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
 * [Arena](https://arena.ai/text/direct), [2](https://canaryarena.ai/text/direct) - Multiple Models / Agent / Sign-Up / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [⁠ChatWave](https://chatwave.crunchflix.site/) - Claude Opus 5 / Claude Fable 5 / GPT 6 Astra / GPT-5.6 Sol / [Discord](https://discord.gg/RNxFvbP2D)
-* [⁠Lumo](https://lumo.proton.me/) - Qwen3.5 122B A10B (Lite, 100 Daily) / GLM 5.2 (Max, 20 Daily) / Sign-Up / [OpenAI Bridge](https://github.com/KHROTU/lucky-cat-api) / [Reasoning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/better-reasoning.md)
+* [⁠Lumo](https://lumo.proton.me/) - Qwen3.5 122B A10B (Lite, 100 Daily) / GLM 5.2 (Max, 20 Daily) / Sign-Up / [OpenAI Bridge](https://github.com/KHROTU/lucky-cat-api) / [Reasoning](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/better-reasoning.md)
 * [⁠Ecosia AI](https://www.ecosia.org/ai-chat) - Mistral Small 4 / Mistral Small 3.2 / Unlimited
 * [AI Assistant](https://aiassistantbot.pages.dev/) - GLM 4.7 / gpt-oss-120b / No Sign-Up
 * [Apertus](https://publicai.co/chat), [2](https://chat.publicai.co/) - Apertus v1.5 70B Thinking / ALIA 40B (Spain) / Apertus v1.5 8B Thinking (No Sign-Up)
@@ -175,7 +175,7 @@
 * [⁠Klipy](https://klipy.com/create/gif-maker/) - Veo 3 / GIF Only / 4s-5s / 4 Daily / Sign-Up
 * [Qwen](https://chat.qwen.ai/) - 5/12 Per Hour / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [AIFreeVideo](https://aifreevideo.com/) - Unlimited / MiniMax Video-01 / Sign-Up
-* [ModelScope Video](https://modelscope.ai/civision/video-generation) - Wan 2.2 14B / 3 Daily / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
+* [ModelScope Video](https://modelscope.ai/civision/video-generation) - Wan 2.2 14B / 3 Daily / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/modelscope.md)
 * [PixVerse](https://pixverse.ai/) - 3 Daily / [Discord](https://discord.com/invite/MXHErdJHMg)
 * [FramePack](https://github.com/colinurbs/FramePack-Studio) - Desktop App / Local Models / Requires NVIDIA GPU
 * [⁠Amuse](https://github.com/saddam213/AmuseAI) - Desktop App / Local Models / [X](https://x.com/Amuse_AI)
@@ -206,7 +206,7 @@
 * [TheresAnAIForThat](https://theresanaiforthat.com/@taaft/image-to-image-generator/) or [⁠Vheer](https://vheer.com/app/image-to-image) / [X](https://x.com/VheerAI) / [Discord](https://discord.com/invite/33qfQRCp5j) - Editing / Unlimited / Flux Kontext Dev
 * [⁠PhotoGPT](https://photogpt.io/) - 8 Daily / Multiple Generators / Reset Limits w/ VPN
 * [⁠MAI Playground](https://playground.microsoft.ai/chat) - MAI-Image-2.5 / MAI-Image-2.5 Flash / MAI-Image-2.5-Pro / 10 Daily / Sign-Up
-* [ModelScope Images](https://modelscope.ai/civision/image-generation) - Qwen Image Edit / Z-Image Turbo / 100 Credits Daily / Model Cost Varies / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
+* [ModelScope Images](https://modelscope.ai/civision/image-generation) - Qwen Image Edit / Z-Image Turbo / 100 Credits Daily / Model Cost Varies / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/modelscope.md)
 * [Z-GEN TURBO](https://z-gen-turbo.vercel.app/), [ImageFree](https://imagefree.net/), [Freegen](https://freegen.app/) or [AIGazou](https://muryou-aigazou.com/) / [Discord](https://discord.gg/v6KzUbPeKh) or [AIFreeForever](https://aifreeforever.com/image-generators) - Z-Image Turbo
 * [ERNIE (HF)](https://huggingface.co/spaces/akhaliq/ERNIE-Image-Turbo) Editing / Sign-Up
 * [LongCat AI](https://longcat.ai/chat/) - 100 Daily / Editing
@@ -214,10 +214,10 @@
 * [Arena](https://arena.ai/image/direct), [2](https://canaryarena.ai/image/direct) - Multiple Generators / Editing / 15 Daily / Sign-Up / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [Mage](https://www.mage.space/) / [Discord](https://discord.com/invite/GT9bPgxyFP), [⁠Tater AI](https://taterai.github.io/Text2Image-Generator.html), [Loras](https://www.loras.dev/) / [X](https://x.com/tater_ai) / [GitHub](https://github.com/Nutlope/loras-dev), [AI Gallery](https://aigallery.app/) / [Telegram](https://t.me/aigalleryapp), or [Art Genie](https://artgenie.pages.dev/) - Flux Schnell
 * [⁠Coze](https://space.coze.cn/) - Seadream 4.0 / 50 Daily / Sign-Up with Phone # / US Select CA
-* [Diffusers Image Outpaint](https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint) - AI Image Extender / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
+* [Diffusers Image Outpaint](https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint) - AI Image Extender / [Limits](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
 * [Genie](https://lumalabs.ai/genie) / [Discord](https://discord.com/invite/ASbS3EykXm) or [threestudio](https://github.com/threestudio-project/threestudio) / [Colab](https://colab.research.google.com/github/threestudio-project/threestudio/blob/main/threestudio.ipynb) / [Discord](https://discord.gg/ejer2MAB8N) - 3D Image Generators
 * [Interactive Scenes](https://lumalabs.ai/interactive-scenes) - Generate Interactive Scenes / [Discord](https://discord.com/invite/ASbS3EykXm)
-* [Illusion Diffusion](https://huggingface.co/spaces/AP123/IllusionDiffusion) - Illusion Artwork Generator / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
+* [Illusion Diffusion](https://huggingface.co/spaces/AP123/IllusionDiffusion) - Illusion Artwork Generator / [Limits](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
 
 ***
 
@@ -267,7 +267,7 @@
 * [FlowMusic](https://www.flowmusic.app/) / Region-Based
 * [WolframTones](https://tones.wolfram.com/) / No Sign-Up
 * [Stable Audio](https://www.stableaudio.com/) / 10 Monthly / [Discord](https://discord.com/invite/stablediffusion)
-* [MusicGen](https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md) / No Sign-Up / [Colab](https://colab.research.google.com/drive/1ECmNEoXk8kvnLEMBMF2LY82E7XmIG4yu) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
+* [MusicGen](https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md) / No Sign-Up / [Colab](https://colab.research.google.com/drive/1ECmNEoXk8kvnLEMBMF2LY82E7XmIG4yu) / [Limits](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
 * [Waveformer](https://github.com/fofr/waveformer)
 * [SOUNDRAW](https://soundraw.io/) / No Sign-Up
 * [⁠YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B) / No Sign-Up
@@ -277,7 +277,7 @@
 * [AIVA](https://aiva.ai/) / [Discord](https://discord.com/invite/ypDnFXN)
 * [Boomy](https://boomy.com/) / [Discord](https://discord.gg/DNHQXeJegp)
 * [⁠MusicGPT](https://musicgpt.com/)
-* [AI Jukebox](https://huggingface.co/spaces/enzostvs/ai-jukebox) / No Sign-Up / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
+* [AI Jukebox](https://huggingface.co/spaces/enzostvs/ai-jukebox) / No Sign-Up / [Limits](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
 * [Eapy](https://home.eapy.io/) - MIDI Sample Generator
 * [Pack Generator](https://output.com/products/pack-generator) - Sample Pack Generator
 * [MMAudio](https://hkchengrex.com/MMAudio/) - Generate Audio for Silent Videos / [Demo](https://huggingface.co/spaces/hkchengrex/MMAudio) / [Colab](https://colab.research.google.com/drive/1TAaXCY2-kPk4xE4PwKB3EqFbSnkUuzZ8?usp=sharing) / [GitHub](https://github.com/hkchengrex/MMAudio)
@@ -305,10 +305,10 @@
 * [AudioArena](https://audioarena.ai/) / No Sign-Up
 * [LazyPy](https://lazypy.ro/tts/) / No Sign-Up / [GitHub](https://github.com/chrisjp/tts)
 * [⁠Echo TTS](https://huggingface.co/spaces/jordand/echo-tts-preview) / No Sign-Up
-* [Kokoro TTS](https://huggingface.co/spaces/hexgrad/Kokoro-TTS) or [⁠Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) / No Sign-Up / [Discord](https://discord.gg/QuGxSWBfQy) / [GitHub](https://github.com/hexgrad/kokoro) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
+* [Kokoro TTS](https://huggingface.co/spaces/hexgrad/Kokoro-TTS) or [⁠Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) / No Sign-Up / [Discord](https://discord.gg/QuGxSWBfQy) / [GitHub](https://github.com/hexgrad/kokoro) / [Limits](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
 * [Ondoku](https://ondoku3.com/en/) / No Sign-Up
 * [⁠Speechma](https://speechma.com/) / No Sign-Up
-* [⁠Chatterbox](https://huggingface.co/spaces/ResembleAI/Chatterbox) / No Sign-Up / [GitHub](https://github.com/resemble-ai/chatterbox) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
+* [⁠Chatterbox](https://huggingface.co/spaces/ResembleAI/Chatterbox) / No Sign-Up / [GitHub](https://github.com/resemble-ai/chatterbox) / [Limits](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
 * [⁠Audio.Z.AI](https://audio.z.ai/)
 * [AnyVoiceLab](https://anyvoicelab.com/long-form-text-to-speech-converter/) / No Sign-Up
 * [VoiceCraft](https://github.com/jasonppy/VoiceCraft) / [Colab](https://colab.research.google.com/drive/1IOjpglQyMTO2C3Y94LD9FY0Ocn-RJRg6?usp=sharing)
@@ -321,7 +321,7 @@
 * [FreeTTS](https://freetts.com/)
 * [NaturalReaders](https://www.naturalreaders.com/online/) / No Sign-Up
 * [AIVocal](https://aivocal.io/) / Requires Google Account
-* [Moe TTS](https://huggingface.co/spaces/skytnt/moe-tts) / No Sign-Up / [Colab](https://colab.research.google.com/drive/14Pb8lpmwZL-JI5Ub6jpG4sz2-8KS0kbS?usp=sharing) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
+* [Moe TTS](https://huggingface.co/spaces/skytnt/moe-tts) / No Sign-Up / [Colab](https://colab.research.google.com/drive/14Pb8lpmwZL-JI5Ub6jpG4sz2-8KS0kbS?usp=sharing) / [Limits](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
 
 ***
 
@@ -340,7 +340,7 @@
 ## ▷ Voice Removal / Separation
 
 * 🌐 **[MultiSong Leaderboard](https://mvsep.com/quality_checker/multisong_leaderboard)** - Music & Voice Separation AI Leaderboards
-* ⭐ **[MVSEP](https://mvsep.com/)** - 50 Daily / [Decrease Queue Time](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mvsep-note.md)
+* ⭐ **[MVSEP](https://mvsep.com/)** - 50 Daily / [Decrease Queue Time](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/mvsep-note.md)
 * [Splitter](https://www.bandlab.com/splitter) / Requires Sign-Up
 * [VocalRemover](https://vocalremover.org/)
 * [Audacity Effects](https://www.audacityteam.org/download/openvino/) / [GitHub](https://github.com/intel/openvino-plugins-ai-audacity)

@@ -1,15 +1,15 @@
 ---
-title: Selfhosting FMHY
-description: This guide will help you set up and run your own instance of FMHY locally.
+title: Selfhosting FreeForUs
+description: This guide will help you set up and run your own instance of FreeForUs locally.
 ---
 
 # Selfhosting
 
 :::warning
-Do note that you **must** differentiate your instance from the official site (fmhy.net) to avoid confusion. Steps to do so are given in step 4.
+Do note that you **must** differentiate your instance from the official site (FreeForUs.net) to avoid confusion. Steps to do so are given in step 4.
 :::
 
-This guide will help you set up and run your own instance of FMHY locally.
+This guide will help you set up and run your own instance of FreeForUs locally.
 
 ### Docker (Experimental)
 
@@ -18,7 +18,7 @@ To run a local instance, you will need to install [Docker](https://docs.docker.c
 After installing both, run the following commands:
 
 ```bash
-git clone https://github.com/fmhy/edit.git
+git clone https://github.com/FreeForUs/edit.git
 cd edit
 sudo docker compose up --build
 ```
@@ -29,7 +29,7 @@ It might take a few minutes to build the image and start the container, running 
 
 You can use [nix](https://nixos.org/) to set up a development environment, we have a [flake](https://nixos.wiki/wiki/Flakes) that setups `nodejs` and `pnpm`.
 
-1. Fork the repository and clone it to your local machine with `git clone https://github.com/fmhy/edit.git`.
+1. Fork the repository and clone it to your local machine with `git clone https://github.com/FreeForUs/edit.git`.
 2. Run `nix flake update` to update the flake lock file.
 3. Run `nix develop` to enter the development environment.
 4. Make your changes.
@@ -45,7 +45,7 @@ You will need to install the following:
 #### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/fmhy/edit.git
+git clone https://github.com/FreeForUs/edit.git
 cd edit
 ```
 
@@ -168,8 +168,8 @@ The rate limiter binding requires setup through the Cloudflare dashboard. You ca
 
 These variables control what gets included when building the documentation site:
 
-- `FMHY_BUILD_NSFW` - Enable NSFW sidebar entry (experimental)
-- `FMHY_BUILD_API` - Enable API component for feedback system
+- `FreeForUs_BUILD_NSFW` - Enable NSFW sidebar entry (experimental)
+- `FreeForUs_BUILD_API` - Enable API component for feedback system
 
 ##### Runtime Variables (for API Worker)
 
@@ -192,4 +192,4 @@ These variables are used by the deployed Cloudflare Worker API:
 
 ### Reverse Proxy
 
-You should be able to use any reverse proxy with this vitepress website, but find a reasonable config for an nginx server [in the repo here](https://github.com/fmhy/edit/blob/main/.github/assets/nginx.conf)
+You should be able to use any reverse proxy with this vitepress website, but find a reasonable config for an nginx server [in the repo here](https://github.com/FreeForUs/edit/blob/main/.github/assets/nginx.conf)

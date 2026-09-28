@@ -18,7 +18,7 @@ For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/a
 
 Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or a redirected page, real downloads happen within the same page as the file host.
 
-Before installing any file, it's recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)** and run it in [Triage](https://tria.ge/) (sandbox). If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://clarasguide.valeena.workers.dev/Guides/vtguide/)**, or send it to us in [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) and we'll take a look for you. For Android Apps, it's best to analyze them in a sandbox like [Triage](https://tria.ge/).
+Before installing any file, it's recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)** and run it in [Triage](https://tria.ge/) (sandbox). If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://clarasguide.valeena.workers.dev/Guides/vtguide/)**, or send it to us in [Discord](https://github.com/FreeForUs/FreeForUs/wiki/FreeForUs-Discord) and we'll take a look for you. For Android Apps, it's best to analyze them in a sandbox like [Triage](https://tria.ge/).
 
 !!!note Most antivirus programs are unnecessary and can cause slowdowns. If you use trusted websites, Windows Defender should be all you need to stay safe, and you can run a [Malwarebytes](https://www.malwarebytes.com/) scan from time to time for extra protection.
 
@@ -45,7 +45,7 @@ For iOS, we recommend **Safari + [wBlock](https://apps.apple.com/app/wblock/id67
 
 If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you can use a Base64 decoder to view it. Some may need to be decoded twice.
 
-* **[Base64 Decoders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_encode_.2F_decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)**
+* **[Base64 Decoders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_encode_.2F_decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772-FreeForUs-base64-auto-decoder)**
 
 ***
 
@@ -64,7 +64,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 
 * **Streaming: [Miruro](https://www.miruro.com/) / [All Manga](https://allmanga.to/) / [animepahe](https://animepahe.pw/)**
 * **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Kayoanime](https://kayoanime.com/)**
-* **Torrenting: [Nyaa](https://nyaa.si/) / [Hayase](https://hayase.watch/) / [Extensions](https://rentry.co/FMHYB64#hayase)**
+* **Torrenting: [Nyaa](https://nyaa.si/) / [Hayase](https://hayase.watch/) / [Extensions](https://rentry.co/FreeForUsB64#hayase)**
 * **Track / Discover: [MAL](https://myanimelist.net/) / [AniList](https://anilist.co/)** 
 
 ***
@@ -90,7 +90,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 ### Reading
 
 * **Downloading: [Anna's Archive](https://annas-archive.gl/) / [Z-Library](https://z-lib.gd/)**
-* **Audiobooks: [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [AudiobookBay](https://audiobookbay.lu/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md)**
+* **Audiobooks: [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [AudiobookBay](https://audiobookbay.lu/) / [Warning](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md)**
 * **Ebook Readers: [Readest](https://readest.com/) / [Koodo](https://www.koodoreader.com/) / [Google Play Books](https://play.google.com/books)**
 * **Manga: [Weeb Central](https://weebcentral.com/) / [⁠Comix](https://comix.to/)**
 * **Comics: [BatCave](https://batcave.biz/) / [GetComics](https://getcomics.org/)**
@@ -119,7 +119,7 @@ For email privacy, we recommend **[Proton](https://proton.me/mail)** and for sea
 
 * **[Windows Install / Debloat Guide](https://wispydocs.pages.dev/windows/)**
 
-Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** page, and follow the **[Clean Install Windows Guide](https://massgrave.dev/clean_install_windows)** to install it. After install, activate it with **[Microsoft Activation Scripts](https://rentry.co/FMHYB64#mas)**. If you'd like to use Windows 10 past its End-Of-Life date, follow **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)**.
+Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** page, and follow the **[Clean Install Windows Guide](https://massgrave.dev/clean_install_windows)** to install it. After install, activate it with **[Microsoft Activation Scripts](https://rentry.co/FreeForUsB64#mas)**. If you'd like to use Windows 10 past its End-Of-Life date, follow **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)**.
 
 Note you can turn on file extensions for all files by opening File Explorer, clicking on the "View" menu, and checking the box next to "File name extensions."
 
@@ -164,5 +164,5 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * **Download Managers: [AB Download Manager](https://abdownloadmanager.com/)**
 * **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate Web Pages to Your Language
 * **[Glossary / Terminology](https://fluffle.cc/piracyglossary)** - Common piracy term definitions
-* **[Unsafe Sites / Software](https://fmhy.net/unsafe)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
-* **[FMHY.net](https://fmhy.net/)** - Our website with many more sites / tools
+* **[Unsafe Sites / Software](https://FreeForUs.net/unsafe)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
+* **[FreeForUs.net](https://FreeForUs.net/)** - Our website with many more sites / tools

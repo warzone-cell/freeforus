@@ -21,7 +21,7 @@ import type { DefaultTheme } from 'vitepress'
 export const meta = {
   name: 'freemediaheckyeah',
   description: 'The largest collection of free stuff on the internet!',
-  hostname: 'https://fmhy.net',
+  hostname: 'https://FreeForUs.net',
   keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
   build: {
     api: true,
@@ -82,15 +82,15 @@ const safeEnv = (key: string) =>
 const isFalsy = (val?: string) =>
   ['false', '0', 'no', 'off'].includes((val ?? '').trim().toLowerCase())
 
-if (isFalsy(safeEnv('FMHY_BUILD_NSFW'))) {
+if (isFalsy(safeEnv('FreeForUs_BUILD_NSFW'))) {
   meta.build.nsfw = false
 }
-if (isFalsy(safeEnv('FMHY_BUILD_API'))) {
+if (isFalsy(safeEnv('FreeForUs_BUILD_API'))) {
   meta.build.api = false
 }
 
 const formatCommitRef = (commitRef: string) =>
-  `<a href="https://github.com/fmhy/edit/commit/${commitRef}">${commitRef.slice(0, 8)}</a>`
+  `<a href="https://github.com/FreeForUs/edit/commit/${commitRef}">${commitRef.slice(0, 8)}</a>`
 
 const cfStart = safeEnv('CF_PAGES_COMMIT_SHA')
 const commitStart = safeEnv('COMMIT_REF')
@@ -105,8 +105,8 @@ export const commitRef =
 export const feedback = `<a href="/feedback" class="feedback-footer">Made with ❤</a>`
 
 export const socialLinks: DefaultTheme.SocialLink[] = [
-  { icon: 'github', link: 'https://github.com/fmhy/edit' },
-  { icon: 'discord', link: 'https://github.com/fmhy/FMHY/wiki/FMHY-Discord' },
+  { icon: 'github', link: 'https://github.com/FreeForUs/edit' },
+  { icon: 'discord', link: 'https://github.com/FreeForUs/FreeForUs/wiki/FreeForUs-Discord' },
   {
     icon: 'reddit',
     link: 'https://reddit.com/r/FREEMEDIAHECKYEAH'
@@ -127,18 +127,18 @@ export const nav: DefaultTheme.NavItem[] = [
       { text: '❓ FAQs', link: '/other/FAQ' },
       {
         text: '🔖 Bookmarks',
-        link: 'https://github.com/mian196/fmhy-bookmarks-extension'
+        link: 'https://github.com/mian196/FreeForUs-bookmarks-extension'
       },
-      { text: '✅ SafeGuard', link: 'https://github.com/fmhy/FMHY-SafeGuard' },
+      { text: '✅ SafeGuard', link: 'https://github.com/FreeForUs/FreeForUs-SafeGuard' },
       { text: '🚀 Startpage', link: '/startpage' },
-      { text: '🔎 SearXNG', link: 'https://searx.fmhy.net/' },
+      { text: '🔎 SearXNG', link: 'https://searx.FreeForUs.net/' },
       {
         text: '💡 Site Hunting',
         link: 'https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/'
       },
       {
-        text: '😇 SFW FMHY',
-        link: 'https://fmhy.xyz/'
+        text: '😇 SFW FreeForUs',
+        link: 'https://FreeForUs.xyz/'
       },
       {
         text: '🏠 Selfhosting',

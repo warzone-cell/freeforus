@@ -6,7 +6,7 @@ compatibility_flags = ["nodejs_compat"]
 compatibility_date = "2024-11-01"
 
 routes = [
-  { pattern = "api.fmhy.net", custom_domain = true, zone_id = "b4212298934f7c1998b4d15f6d261715" },
+  { pattern = "api.FreeForUs.net", custom_domain = true, zone_id = "b4212298934f7c1998b4d15f6d261715" },
 ]
 
 [ai]

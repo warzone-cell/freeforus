@@ -17,17 +17,17 @@ const prompts = [
   'Make it count!',
   'Leave some feedback for us!',
   "We're all ears 🐰",
-  'Tell us what is missing in FMHY',
+  'Tell us what is missing in FreeForUs',
   'Your thoughts matter to us 💡',
   'Feedback is a gift 🎁',
   'What do you think?',
   'We appreciate your support 🙏',
-  'Help us make FMHY better 🤝',
+  'Help us make FreeForUs better 🤝',
   'We need your help 👋',
   'Your feedback is valuable 💯',
   'So... what do you think?',
   "We're always looking for ways to improve!",
-  'Your feedback is valuable and helps us make FMHY better.'
+  'Your feedback is valuable and helps us make FreeForUs better.'
 ]
 
 function getPrompt() {
@@ -43,11 +43,11 @@ const messages = {
   appreciation: [
     'We appreciate your support!',
     "We're always looking for ways to improve!.",
-    'Your feedback is valuable and helps us make FMHY better.'
+    'Your feedback is valuable and helps us make FreeForUs better.'
   ],
   other: [
     "We're always looking for ways to improve!",
-    'Your feedback is valuable and helps us make FMHY better.'
+    'Your feedback is valuable and helps us make FreeForUs better.'
   ]
 }
 
@@ -218,7 +218,7 @@ async function handleSubmit() {
   recordSubmission()
 
   try {
-    const response = await fetch('https://api.fmhy.net/feedback', {
+    const response = await fetch('https://api.FreeForUs.net/feedback', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
@@ -446,7 +446,7 @@ const resetFeedback = () => {
             our
             <a
               class="text-primary text-underline font-semibold"
-              href="https://github.com/fmhy/FMHY/wiki/FMHY-Discord"
+              href="https://github.com/FreeForUs/FreeForUs/wiki/FreeForUs-Discord"
             >
               Discord.
             </a>

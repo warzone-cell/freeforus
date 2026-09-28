@@ -3,7 +3,7 @@ html {
 }
 
 :root {
-  --fmhy-scroll-inset: calc(var(--vp-nav-height) + 16px);
+  --FreeForUs-scroll-inset: calc(var(--vp-nav-height) + 16px);
   /* Colors: Brand */
   --vp-c-brand-1: theme('colors.swarm.500');
   --vp-c-brand-2: theme('colors.swarm.600');
@@ -476,23 +476,23 @@ html.june {
   margin-left: auto;
 }
 
-.fmhy-scroll-inset {
+.FreeForUs-scroll-inset {
   position: fixed;
   top: 0;
   left: 0;
   width: 0;
-  height: var(--fmhy-scroll-inset);
+  height: var(--FreeForUs-scroll-inset);
   pointer-events: none;
 }
 
 .vp-doc [id],
 .vp-search-scroll-target {
-  scroll-margin-top: var(--fmhy-scroll-inset);
+  scroll-margin-top: var(--FreeForUs-scroll-inset);
 }
 
 /* VitePress 1 includes h2's padding in its anchor calculation. */
 .vp-doc h2[id] {
-  scroll-margin-top: calc(var(--fmhy-scroll-inset) - 24px);
+  scroll-margin-top: calc(var(--FreeForUs-scroll-inset) - 24px);
 }
 
 /* Mobile TOC Active Highlight (Only targets the mobile dropdown) */

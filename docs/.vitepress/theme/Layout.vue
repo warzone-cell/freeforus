@@ -24,10 +24,10 @@ const handleClick = (e: MouseEvent) => {
 
     if (typeof href === 'string') {
       if (
-        href.includes('https://rentry.co/FMHYB64') ||
-        href.startsWith('https://rentry.co/FMHYB64')
+        href.includes('https://rentry.co/FreeForUsB64') ||
+        href.startsWith('https://rentry.co/FreeForUsB64')
       ) {
-        const dontShow = localStorage.getItem('fmhy-base64-dialog-preference')
+        const dontShow = localStorage.getItem('FreeForUs-base64-dialog-preference')
         if (dontShow === 'true') {
           return // Let the link click proceed normally
         }
@@ -99,7 +99,7 @@ const updateScrollInset = () => {
     visibleHeight(localNav) +
     16
   document.documentElement.style.setProperty(
-    '--fmhy-scroll-inset',
+    '--FreeForUs-scroll-inset',
     `${inset}px`
   )
   if (resizing && hashIsAligned) scheduleHashRealignment()
@@ -239,7 +239,7 @@ onUnmounted(() => {
 </script>
 
 <template>
-  <div class="fmhy-scroll-inset" aria-hidden="true"></div>
+  <div class="FreeForUs-scroll-inset" aria-hidden="true"></div>
   <Layout>
     <template #sidebar-nav-after>
       <Sidebar />

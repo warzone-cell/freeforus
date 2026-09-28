@@ -15,7 +15,7 @@ const close = () => {
 
 const openLink = () => {
   if (dontShowAgain.value) {
-    localStorage.setItem('fmhy-base64-dialog-preference', 'true')
+    localStorage.setItem('FreeForUs-base64-dialog-preference', 'true')
   }
   window.open(props.url, '_blank')
   close()
@@ -60,12 +60,12 @@ const openLink = () => {
           <li>
             A userscript:
             <a
-              href="https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder"
+              href="https://greasyfork.org/en/scripts/485772-FreeForUs-base64-auto-decoder"
               target="_blank"
               rel="noreferrer"
               class="text-primary hover:underline font-medium"
             >
-              FMHY Base64 Auto Decoder
+              FreeForUs Base64 Auto Decoder
             </a>
             (using a
             <a

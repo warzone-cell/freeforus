@@ -21,7 +21,7 @@
 * ⭐ **[Awesome Search](https://awesomelists.calvinjeng.io/)** - Awesome List Search
 * ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Comprehensive Hub of Resources and Tools / [Discord](https://discord.gg/CTT)
 * ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
-* ⭐ **[FMHY Search](https://fmhy.net/posts/search)** - Search the Wiki
+* ⭐ **[FreeForUs Search](https://FreeForUs.net/posts/search)** - Search the Wiki
 * [Wispy Docs](https://wispydocs.pages.dev/) - List of Guides by Wispy
 * [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
 * [⁠ForumDirectory](https://www.forumdirectory.com/) - Forum Directory
@@ -40,7 +40,7 @@
 * [DeletedCity](https://deletedcity.net/) or [Restorativland](https://geocities.restorativland.org/) - Geocities Site Indexes
 * [The National Archives](https://www.nationalarchives.gov.uk/webarchive/) - UK Government Site Archive / [X](https://x.com/UKNatArchives)
 * [Gazetteer of Wikis](https://meta.miraheze.org/wiki/Gazetteer_of_wikis), [Wiki Stats](https://wikistats.wmcloud.org/display.php?t=mh) or [WikiDiscover](https://meta.miraheze.org/wiki/Special:WikiDiscover) - Miraheze Wiki Indexes
-* [Creative Commons](https://github.com/fmhy/FMHYedit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
+* [Creative Commons](https://github.com/FreeForUs/FreeForUsedit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
 * [IndieBlogs](https://indieblog.page/) - Random Indie Blogs
 * [OldSchoolSitesCatalogue](https://github.com/rarelygoeshere/OldSchoolSitesCatalogue), [404PageFound](https://www.404pagefound.com/) or [href.cool](https://href.cool/) - Oldschool Site Indexes
 * [Funny / Useless](https://rentry.org/aksry2vc) - Funny / Useless Websites
@@ -67,8 +67,8 @@
 ## ▷ Random Sites / Discovery
 
 * ⭐ **[Vijay's Virtual Vibes](https://vijaysvibes.uk/)** - Find Random Sites / [iFrame Version](https://vijaysvibes.uk/iframe-version.html)
-* ⭐ **[Random FMHY Sites](https://ffmhy.pages.dev/)** - Find Random Sites Listed on FMHY / Works Per Page / [Use Button](https://i.ibb.co/xrqkVGJ/image.png), [2](https://i.imgur.com/88eNtD4.png)
-* [Chance](https://chanceapp.io/?c=CHANCE-FMHY-DOOR) - Find Random Sites
+* ⭐ **[Random FreeForUs Sites](https://fFreeForUs.pages.dev/)** - Find Random Sites Listed on FreeForUs / Works Per Page / [Use Button](https://i.ibb.co/xrqkVGJ/image.png), [2](https://i.imgur.com/88eNtD4.png)
+* [Chance](https://chanceapp.io/?c=CHANCE-FreeForUs-DOOR) - Find Random Sites
 * [Visit A Random Website](https://visitarandomwebsite.com/) - Find Random Sites
 * [BoredButton](https://www.boredbutton.com/) - Find Random Sites
 * [Mx Tynehorne’s Cabinet](https://satyrs.eu/linkroll) - Find Random Sites
@@ -162,7 +162,7 @@
 * 🌐 **[Dolici](https://dolici.com/)** - Top Restaurant List
 * ⭐ **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
 * ⭐ **[Grocy](https://grocy.info/)** / [Android](https://patrickzedler.com/grocy/) / [Subreddit](https://www.reddit.com/r/grocy) / [GitHub](https://github.com/grocy/grocy) or [Listonic](https://new.app.listonic.com/en) - Grocery / Pantry Managers
-* ⭐ **[Too Good To Go](https://www.toogoodtogo.com/)** - Surplus Food Marketplace / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/TGTG.md)
+* ⭐ **[Too Good To Go](https://www.toogoodtogo.com/)** - Surplus Food Marketplace / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/TGTG.md)
 * ⭐ **[Sporked](https://sporked.com/)** or [⁠Taquitos](https://www.taquitos.net/) - Packaged Food & Snack Reviews / Databases
 * ⭐ **[Still Tasty](https://www.stilltasty.com/)** or [EatByDate](https://www.eatbydate.com/) - Shelf Life Guides
 * ⭐ **[OpenTable](https://www.opentable.com/)** - Restaurant Reservation Search
@@ -222,7 +222,7 @@
 
 * ⭐ **[/coffee/](https://rentry.co/coffeeguide)** or [Coffee Time General](https://pastebin.com/UEzwuyLz) - Coffee Brewing Masterlists / Guides
 * ⭐ **[Beanconqueror](https://beanconqueror.com/)** / [GitHub](https://github.com/graphefruit/Beanconqueror) or [Timer.Coffee](https://www.timer.coffee) / [GitHub](https://github.com/antonkarliner/timer-coffee) - Coffee Tracking Apps / Timers
-* [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/cofi-note.md)
+* [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://github.com/FreeForUs/edit/blob/main/docs/.vitepress/notes/cofi-note.md)
 * [Brew Great Coffee](https://www.brewgreat.coffee/) - Espresso / Pour-Over Brewing Tools + Tips
 * [The Minimal Pour](https://theminimalpour.com/) - Pour-Over Coffee Calculator
 * [Notbadcoffee](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
@@ -769,7 +769,7 @@
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
 * [FitoTrack](https://codeberg.org/jannis/FitoTrack), [Flexify](https://github.com/brandonp2412/Flexify) or [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness Apps
-* [NOOP](https://rentry.co/FMHYB64#noop) - Offline WHOOP Companion App
+* [NOOP](https://rentry.co/FreeForUsB64#noop) - Offline WHOOP Companion App
 * [⁠Bevel](https://www.bevel.health/) - Wearable Watch Health Data App
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE Calculator
 * [Bodyweight Fitness Progressions](https://docs.google.com/spreadsheets/d/1a8tlZ-zbF695HA3Lmm20OIYeYYxo1lmUOczUXKLoL4s/)
