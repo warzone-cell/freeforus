@@ -4,8 +4,8 @@ layout: home
 description: The largest collection of free stuff on the internet!
 
 hero:
-  name: freemediaheckyeah
-  tagline: The largest collection of free stuff on the internet!
+  name: FreeForUsHack
+  tagline: My personal collection of awesome web links!
   announcement:
     title: September Updates ⚡
     link: /posts/sept-2026
@@ -22,10 +22,6 @@ hero:
     - theme: alt
       text: Contribute
       link: /other/contributing
-    - theme: alt
-      text: Discord
-      link: https://github.com/FreeForUs/FreeForUs/wiki/FreeForUs-Discord
-
 features:
   - title: Adblocking / Privacy
     link: /privacy
